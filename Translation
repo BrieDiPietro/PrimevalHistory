@@ -1,11 +1,12 @@
 
+
 Genesis
 English: ESV
 Actual Greek: LXX Rahlf's
 Literal Greek: Translation
 Actual Hebrew: HMT-W4
 Literal Hebrew: Translation
-Notes: Commentary Brie DiPietro
+Notes: Commentary Brienna DiPietro
 
 Genesis.1.1
 English: In the beginning, God created the heavens and the earth.
@@ -13,16 +14,18 @@ Actual Greek:	Ἐν ἀρχῇ ἐποίησεν ὁ θεὸς τὸν οὐρ�
 Literal Greek: In the beginning god made the heaven and the earth.
 Actual Hebrew: בְּרֵאשִׁ֖ית בָּרָ֣א אֱלֹהִ֑ים אֵ֥ת הַשָּׁמַ֖יִם וְאֵ֥ת הָאָֽרֶץ׃
 Literal Hebrew: at first God created the heavens and the earth
-Notes: nuances of first phrase, what's coming into being? putting together or creating
+Notes:
+nuances of first phrase, what's coming into being? putting together or creating
 
 Genesis.1.2
 English: The earth was without form and void, and darkness was over the face of the deep. And the Spirit of God was hovering over the face of the waters.
 Actual Greek: ἡ δὲ γῆ ἦν ἀόρατος καὶ ἀκατασκεύαστος, καὶ σκότος ἐπάνω τῆς ἀβύσσου, καὶ πνεῦμα θεοῦ ἐπεφέρετο ἐπάνω τοῦ ὕδατος.
 Literal Greek: and the earth was not visible and not formed, and darkness {was} above the abyss, and the breath of god was being brought above the water.
 Actual Hebrew: וְהָאָ֗רֶץ הָיְתָ֥ה תֹ֨הוּ֙ וָבֹ֔הוּ וְחֹ֖שֶׁךְ עַל־פְּנֵ֣י תְה֑וֹם וְר֣וּחַ אֱלֹהִ֔ים מְרַחֶ֖פֶת עַל־פְּנֵ֥י הַמָּֽיִם
-Literal Hebrew:
+Literal Hebrew: and the earth was formless and empty and darkness [was] over the face of the abyss and the breath of God relaxed over the face of the waters
 Notes:
 - Very liberal with the use of plurals from Greek to ESV
+- Piel verb מְרַחֶ֖פֶת and weird definition
 
 Genesis.1.3
 English: And God said, “Let there be light,” and there was light.
@@ -37,14 +40,25 @@ Notes:
 
 
 Genesis.1.4
-English:
-Actual Greek:
-Literal Greek:
-Actual Hebrew:
-Literal Hebrew:
+English: And God saw that the light was good. And God separated the light from the darkness.
+Actual Greek: καὶ εἶδεν ὁ θεὸς τὸ φῶς ὅτι καλόν. καὶ διεχώρισεν ὁ θεὸς ἀνὰ μέσον τοῦ φωτὸς καὶ ἀνὰ μέσον τοῦ σκότους.
+Literal Greek: and god saw the light, that [it was] good. and god separated up the middle of the light and up the middle of the darkness.
+Actual Hebrew: וַיַּ֧רְא אֱלֹהִ֛ים אֶת־הָא֖וֹר כִּי־ט֑וֹב וַיַּבְדֵּ֣ל אֱלֹהִ֔ים בֵּ֥ין הָא֖וֹר וּבֵ֥ין הַחֹֽשֶׁךְ׃
+Literal Hebrew: and God saw the light that [it was] good and God separated the light fully among the darkness
 Notes:
+- κὰλον can be nom or acc
+- 2 of וּבֵ֥ין, translation?
 
 Genesis.1.5
+English: God called the light Day, and the darkness he called Night. And there was evening and there was morning, the first day.
+Actual Greek: καὶ ἐκάλεσεν ὁ θεὸς τὸ φῶς ἡμέραν καὶ τὸ σκότος ἐκάλεσεν νύκτα. καὶ ἐγένετο ἑσπέρα καὶ ἐγένετο πρωί, ἡμέρα μία.
+Literal Greek: and god called the light day and the darkness [he] called night. and night came to be and it came to be by morning, day one
+Actual Hebrew: וַיִּקְרָ֨א אֱלֹהִ֤ים ׀ לָאוֹר֙ י֔וֹם וְלַחֹ֖שֶׁךְ קָ֣רָא לָ֑יְלָה וַֽיְהִי־עֶ֥רֶב
+Literal Hebrew: and God called to the light day and to the dark [he] called night and it was evening and it was morning, day one.
+Notes:
+- ἑσπέρα is a noun πρωί is an adverb
+
+Genesis.1.6
 English:
 Actual Greek:
 Literal Greek:
@@ -52,7 +66,31 @@ Actual Hebrew:
 Literal Hebrew:
 Notes:
 
-Genesis.1.6
+Genesis.1.7
+English:
+Actual Greek:
+Literal Greek:
+Actual Hebrew:
+Literal Hebrew:
+Notes:
+
+Genesis.1.8
+English:
+Actual Greek:
+Literal Greek:
+Actual Hebrew:
+Literal Hebrew:
+Notes:
+
+Genesis.1.9
+English:
+Actual Greek:
+Literal Greek:
+Actual Hebrew:
+Literal Hebrew:
+Notes:
+
+Genesis.1.10
 English:
 Actual Greek:
 Literal Greek:
