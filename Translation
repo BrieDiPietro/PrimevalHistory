@@ -2,27 +2,27 @@
 
 Genesis
 English: ESV
-Actual Greek: LXX Rahlf's
-Literal Greek: Translation
-Actual Hebrew: HMT-W4
-Literal Hebrew: Translation
+Greek: LXX Rahlf's
+Greek Translation: Brienna DiPietro
+Hebrew: HMT-W4
+Hebrew Translation: Brienna DiPietro
 Notes: Commentary Brienna DiPietro
 
 Genesis.1.1
 English: In the beginning, God created the heavens and the earth.
-Actual Greek:	Ἐν ἀρχῇ ἐποίησεν ὁ θεὸς τὸν οὐρανὸν καὶ τὴν γῆν.
-Literal Greek: In the beginning god made the heaven and the earth.
-Actual Hebrew: בְּרֵאשִׁ֖ית בָּרָ֣א אֱלֹהִ֑ים אֵ֥ת הַשָּׁמַ֖יִם וְאֵ֥ת הָאָֽרֶץ׃
-Literal Hebrew: at first God created the heavens and the earth
+Greek:	Ἐν ἀρχῇ ἐποίησεν ὁ θεὸς τὸν οὐρανὸν καὶ τὴν γῆν.
+Greek Translation: In the beginning God made the heaven and the earth.
+Hebrew: בְּרֵאשִׁ֖ית בָּרָ֣א אֱלֹהִ֑ים אֵ֥ת הַשָּׁמַ֖יִם וְאֵ֥ת הָאָֽרֶץ׃
+Hebrew Translation: at first God created the heavens and the earth
 Notes:
 - nuances of first phrase, what's coming into being? putting together or creating
 
 Genesis.1.2
 English: The earth was without form and void, and darkness was over the face of the deep. And the Spirit of God was hovering over the face of the waters.
-Actual Greek: ἡ δὲ γῆ ἦν ἀόρατος καὶ ἀκατασκεύαστος, καὶ σκότος ἐπάνω τῆς ἀβύσσου, καὶ πνεῦμα θεοῦ ἐπεφέρετο ἐπάνω τοῦ ὕδατος.
-Literal Greek: and the earth was not visible and not formed, and darkness [was] above the abyss, and the breath of god was being brought above the water.
-Actual Hebrew: וְהָאָ֗רֶץ הָיְתָ֥ה תֹ֨הוּ֙ וָבֹ֔הוּ וְחֹ֖שֶׁךְ עַל־פְּנֵ֣י תְה֑וֹם וְר֣וּחַ אֱלֹהִ֔ים מְרַחֶ֖פֶת עַל־פְּנֵ֥י הַמָּֽיִם
-Literal Hebrew: and the earth was formless and empty and darkness [was] over the face of the abyss and the breath of God brooding over the face of the waters
+Greek: ἡ δὲ γῆ ἦν ἀόρατος καὶ ἀκατασκεύαστος, καὶ σκότος ἐπάνω τῆς ἀβύσσου, καὶ πνεῦμα θεοῦ ἐπεφέρετο ἐπάνω τοῦ ὕδατος.
+Greek Translation: and the earth was not visible and not formed, and darkness [was] above the abyss, and the breath of god was being brought above the water.
+Hebrew: וְהָאָ֗רֶץ הָיְתָ֥ה תֹ֨הוּ֙ וָבֹ֔הוּ וְחֹ֖שֶׁךְ עַל־פְּנֵ֣י תְה֑וֹם וְר֣וּחַ אֱלֹהִ֔ים מְרַחֶ֖פֶת עַל־פְּנֵ֥י הַמָּֽיִם
+Hebrew Translation: and the earth was formless and empty and darkness [was] over the face of the abyss and the breath of God brooding over the face of the waters
 Notes:
 - Very liberal with the use of plurals from Greek to ESV
 - Greek is totally different
@@ -30,10 +30,10 @@ Notes:
 
 Genesis.1.3
 English: And God said, “Let there be light,” and there was light.
-Actual Greek: καὶ εἶπεν ὁ θεός Γενηθήτω φῶς. καὶ ἐγένετο φῶς.
-Literal Greek: and god said Let there be light. and light came to be.
-Actual Hebrew:  וַיֹּ֥אמֶר אֱלֹהִ֖ים יְהִ֣י א֑וֹר וַֽיְהִי־אֽוֹר׃
-Literal Hebrew: and God said let there be light and there was light
+Greek: καὶ εἶπεν ὁ θεός Γενηθήτω φῶς. καὶ ἐγένετο φῶς.
+Greek Translation: and god said Let there be light. and light came to be.
+Hebrew:  וַיֹּ֥אמֶר אֱלֹהִ֖ים יְהִ֣י א֑וֹר וַֽיְהִי־אֽוֹר׃
+Hebrew Translation: and God said let there be light and there was light
 Notes:
 - patterning of divine names in the Greek
       elohim, θεος: God
@@ -42,247 +42,440 @@ Notes:
 
 Genesis.1.4
 English: And God saw that the light was good. And God separated the light from the darkness.
-Actual Greek: καὶ εἶδεν ὁ θεὸς τὸ φῶς ὅτι καλόν. καὶ διεχώρισεν ὁ θεὸς ἀνὰ μέσον τοῦ φωτὸς καὶ ἀνὰ μέσον τοῦ σκότους.
-Literal Greek: and god saw the light, that [it was] good. and god separated between the light and between the darkness.
-Actual Hebrew: וַיַּ֧רְא אֱלֹהִ֛ים אֶת־הָא֖וֹר כִּי־ט֑וֹב וַיַּבְדֵּ֣ל אֱלֹהִ֔ים בֵּ֥ין הָא֖וֹר וּבֵ֥ין הַחֹֽשֶׁךְ׃
-Literal Hebrew: and God saw the light that [it was] good and God separated the light and the darkness
+Greek: καὶ εἶδεν ὁ θεὸς τὸ φῶς ὅτι καλόν. καὶ διεχώρισεν ὁ θεὸς ἀνὰ μέσον τοῦ φωτὸς καὶ ἀνὰ μέσον τοῦ σκότους.
+Greek Translation: and god saw the light, that [it was] good. and god separated between the light and between the darkness.
+Hebrew: וַיַּ֧רְא אֱלֹהִ֛ים אֶת־הָא֖וֹר כִּי־ט֑וֹב וַיַּבְדֵּ֣ל אֱלֹהִ֔ים בֵּ֥ין הָא֖וֹר וּבֵ֥ין הַחֹֽשֶׁךְ׃
+Hebrew Translation: and God saw the light that [it was] good and God separated the light and the darkness
 Notes:
 - κὰλον can be nom or acc
 
 Genesis.1.5
 English: God called the light Day, and the darkness he called Night. And there was evening and there was morning, the first day.
-Actual Greek: καὶ ἐκάλεσεν ὁ θεὸς τὸ φῶς ἡμέραν καὶ τὸ σκότος ἐκάλεσεν νύκτα. καὶ ἐγένετο ἑσπέρα καὶ ἐγένετο πρωί, ἡμέρα μία.
-Literal Greek: and god called the light day and the darkness [he] called night. and night was and it was morning, day one
-Actual Hebrew: וַיִּקְרָ֨א אֱלֹהִ֤ים ׀ לָאוֹר֙ י֔וֹם וְלַחֹ֖שֶׁךְ קָ֣רָא לָ֑יְלָה וַֽיְהִי־עֶ֥רֶב
-Literal Hebrew: and God called to the light day and to the dark [he] called night and it was evening and it was morning, day one.
+Greek: καὶ ἐκάλεσεν ὁ θεὸς τὸ φῶς ἡμέραν καὶ τὸ σκότος ἐκάλεσεν νύκτα. καὶ ἐγένετο ἑσπέρα καὶ ἐγένετο πρωί, ἡμέρα μία.
+Greek Translation: and god called the light day and the darkness [he] called night. and night was and it was morning, day one
+Hebrew: וַיִּקְרָ֨א אֱלֹהִ֤ים ׀ לָאוֹר֙ י֔וֹם וְלַחֹ֖שֶׁךְ קָ֣רָא לָ֑יְלָה וַֽיְהִי־עֶ֥רֶב
+Hebrew Translation: and God called to the light day and to the dark [he] called night and it was evening and it was morning, day one.
 Notes:
 - ἑσπέρα is a noun πρωί is an adverb
 - ἐγένετο has creation in it; serious beef
 
 Genesis.1.6
 English: And God said, Let there be an expanse in the midst of the waters, and let it separate the waters from the waters.”
-Actual Greek: Καὶ εἶπεν ὁ θεός Γενηθήτω στερέωμα ἐν μέσῳ τοῦ ὕδατος καὶ ἔστω διαχωρίζον ἀνὰ μέσον ὕδατος καὶ ὕδατος. καὶ ἐγένετο οὕτως.
-Literal Greek: and God said Let there be firmament in the middle of the water and let it be separating between water and water. and like this it came to be.
-Actual Hebrew: וַיֹּ֣אמֶר אֱלֹהִ֔ים יְהִ֥י רָקִ֖יעַ בְּת֣וֹךְ הַמָּ֑יִם וִיהִ֣י מַבְדִּ֔יל בֵּ֥ין מַ֖יִם לָמָֽיִם׃
-Literal Hebrew: and God said let there be an expanse in the midst of the waters and let it there be a separation between the waters and the waters.
+Greek: Καὶ εἶπεν ὁ θεός Γενηθήτω στερέωμα ἐν μέσῳ τοῦ ὕδατος καὶ ἔστω διαχωρίζον ἀνὰ μέσον ὕδατος καὶ ὕδατος. καὶ ἐγένετο οὕτως.
+Greek Translation: and God said Let there be firmament in the middle of the water and let it be separating between water and water. and it came to be like this.
+Hebrew: וַיֹּ֣אמֶר אֱלֹהִ֔ים יְהִ֥י רָקִ֖יעַ בְּת֣וֹךְ הַמָּ֑יִם וִיהִ֣י מַבְדִּ֔יל בֵּ֥ין מַ֖יִם לָמָֽיִם׃
+Hebrew Translation: and God said let there be an expanse in the midst of the waters and let it there be a separation between the waters and the waters.
 Notes:
 - did it not come to be?
 
 Genesis.1.7
 English: And God made the expanse and separated the waters that were under the expanse from the waters that were above the expanse. And it was so.
-Actual Greek:  καὶ ἐποίησεν ὁ θεὸς τὸ στερέωμα, καὶ διεχώρισεν ὁ θεὸς ἀνὰ μέσον τοῦ ὕδατος, ὃ ἦν ὑποκάτω τοῦ στερεώματος, καὶ ἀνὰ μέσον τοῦ ὕδατος τοῦ ἐπάνω τοῦ στερεώματος.
-Literal Greek: and God made the firmament, and God separated between the water, which was below the firmament, and between the water above the firmament.
-Actual Hebrew: וַיַּ֣עַשׂ אֱלֹהִים֮ אֶת־הָרָקִיעַ֒ וַיַּבְדֵּ֗ל בֵּ֤ין הַמַּ֙יִם֙ אֲשֶׁר֙ מִתַּ֣חַת לָרָקִ֔יעַ וּבֵ֣ין הַמַּ֔יִם אֲשֶׁ֖ר מֵעַ֣ל לָרָקִ֑יעַ וַֽיְהִי־כֵֽן׃
-Literal Hebrew: and God made the expanse and [He] separated between the waters which [were] from below the expanse and between the waters which [were] above the expanse and so it came to be.
+Greek:  καὶ ἐποίησεν ὁ θεὸς τὸ στερέωμα, καὶ διεχώρισεν ὁ θεὸς ἀνὰ μέσον τοῦ ὕδατος, ὃ ἦν ὑποκάτω τοῦ στερεώματος, καὶ ἀνὰ μέσον τοῦ ὕδατος τοῦ ἐπάνω τοῦ στερεώματος.
+Greek Translation: and God made the firmament, and God separated between the water, which was below the firmament, and between the water above the firmament.
+Hebrew: וַיַּ֣עַשׂ אֱלֹהִים֮ אֶת־הָרָקִיעַ֒ וַיַּבְדֵּ֗ל בֵּ֤ין הַמַּ֙יִם֙ אֲשֶׁר֙ מִתַּ֣חַת לָרָקִ֔יעַ וּבֵ֣ין הַמַּ֔יִם אֲשֶׁ֖ר מֵעַ֣ל לָרָקִ֑יעַ וַֽיְהִי־כֵֽן׃
+Hebrew Translation: and God made the expanse and [He] separated between the waters which [were] from below the expanse and between the waters which [were] above the expanse and so it came to be.
 Notes:
 - firmament/separator in Greek
 - the Greek lacks so much parallelism
 
 Genesis.1.8
 English: And God called the expanse Heaven. And there was evening and there was morning, the second day.
-Actual Greek: καὶ ἐκάλεσεν ὁ θεὸς τὸ στερέωμα οὐρανόν. καὶ εἶδεν ὁ θεὸς ὅτι καλόν. καὶ ἐγένετο ἑσπέρα καὶ ἐγένετο πρωί, ἡμέρα δευτέρα.
-Literal Greek: and God called the firmament sky. and God saw that [it was] good. and night was and it was morning, day two.
-Actual Hebrew:  וַיִּקְרָ֧א אֱלֹהִ֛ים לָֽרָקִ֖יעַ שָׁמָ֑יִם וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם שֵׁנִֽי׃
-Literal Hebrew: and God called the expanse sky and it was evening and it was morning, the second day.
+Greek: καὶ ἐκάλεσεν ὁ θεὸς τὸ στερέωμα οὐρανόν. καὶ εἶδεν ὁ θεὸς ὅτι καλόν. καὶ ἐγένετο ἑσπέρα καὶ ἐγένετο πρωί, ἡμέρα δευτέρα.
+Greek Translation: and God called the firmament sky. and God saw that [it was] good. and night was and it was morning, day two.
+Hebrew:  וַיִּקְרָ֧א אֱלֹהִ֛ים לָֽרָקִ֖יעַ שָׁמָ֑יִם וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם שֵׁנִֽי׃
+Hebrew Translation: and God called the expanse sky and it was evening and it was morning, the second day.
 Notes
 - did the Greeks even have the same general idea
 
 Genesis.1.9
 English: And God said, “Let the waters under the heavens be gathered together into one place, and let the dry land appear.” And it was so.
-Actual Greek: Καὶ εἶπεν ὁ θεός Συναχθήτω τὸ ὕδωρ τὸ ὑποκάτω τοῦ οὐρανοῦ εἰς συναγωγὴν μίαν, καὶ ὀφθήτω ἡ ξηρά. καὶ ἐγένετο οὕτως. καὶ συνήχθη τὸ ὕδωρ τὸ ὑποκάτω τοῦ οὐρανοῦ εἰς τὰς συναγωγὰς αὐτῶν, καὶ ὤφθη ἡ ξηρά.
-Literal Greek: and God said Water under the sky be brought together into one gathering, and land be seen. and like this it came to be. and the water under the sky was brought together into their groups, and the land was seen.
-Actual Hebrew: וַיֹּ֣אמֶר אֱלֹהִ֗ים יִקָּו֨וּ הַמַּ֜יִם מִתַּ֤חַת הַשָּׁמַ֙יִם֙ אֶל־מָק֣וֹם אֶחָ֔ד וְתֵרָאֶ֖ה הַיַּבָּשָׁ֑ה וַֽיְהִי־כֵֽן
-Literal Hebrew: and God said let the waters from under the heavens come together into one place and let the dry land appear and so it came to be.
+Greek: Καὶ εἶπεν ὁ θεός Συναχθήτω τὸ ὕδωρ τὸ ὑποκάτω τοῦ οὐρανοῦ εἰς συναγωγὴν μίαν, καὶ ὀφθήτω ἡ ξηρά. καὶ ἐγένετο οὕτως. καὶ συνήχθη τὸ ὕδωρ τὸ ὑποκάτω τοῦ οὐρανοῦ εἰς τὰς συναγωγὰς αὐτῶν, καὶ ὤφθη ἡ ξηρά.
+Greek Translation: and God said Water under the sky be brought together into one gathering, and land be seen. and it came to be like this. and the water under the sky was brought together into their groups, and the land was seen.
+Hebrew: וַיֹּ֣אמֶר אֱלֹהִ֗ים יִקָּו֨וּ הַמַּ֜יִם מִתַּ֤חַת הַשָּׁמַ֙יִם֙ אֶל־מָק֣וֹם אֶחָ֔ד וְתֵרָאֶ֖ה הַיַּבָּשָׁ֑ה וַֽיְהִי־כֵֽן
+Hebrew Translation: and God said let the waters from under the heavens come together into one place and let the dry land appear and so it came to be.
 Notes:
 - awkward pulling the water together in Greek
 
 Genesis.1.10
 English: God called the dry land Earth, and the waters that were gathered together he called Seas. And God saw that it was good.
-Actual Greek: καὶ ἐκάλεσεν ὁ θεὸς τὴν ξηρὰν γῆν καὶ τὰ συστήματα τῶν ὑδάτων ἐκάλεσεν θαλάσσας. καὶ εἶδεν ὁ θεὸς ὅτι καλόν.
-Literal Greek: and God called the land earth and the groups of water [He] called oceans. and God said that [it was] good.
-Actual Hebrew: וַיִּקְרָ֨א אֱלֹהִ֤ים ׀ לַיַּבָּשָׁה֙ אֶ֔רֶץ וּלְמִקְוֵ֥ה הַמַּ֖יִם קָרָ֣א יַמִּ֑ים וַיַּ֥רְא אֱלֹהִ֖ים כִּי־טֽוֹב׃
-Literal Hebrew: and God called the dry land earth and the gathering of the waters [He] called seas. and God saw that [it was] good.
+Greek: καὶ ἐκάλεσεν ὁ θεὸς τὴν ξηρὰν γῆν καὶ τὰ συστήματα τῶν ὑδάτων ἐκάλεσεν θαλάσσας. καὶ εἶδεν ὁ θεὸς ὅτι καλόν.
+Greek Translation: and God called the land earth and the groups of water [He] called oceans. and God said that [it was] good.
+Hebrew: וַיִּקְרָ֨א אֱלֹהִ֤ים ׀ לַיַּבָּשָׁה֙ אֶ֔רֶץ וּלְמִקְוֵ֥ה הַמַּ֖יִם קָרָ֣א יַמִּ֑ים וַיַּ֥רְא אֱלֹהִ֖ים כִּי־טֽוֹב׃
+Hebrew Translation: and God called the dry land earth and the gathering of the waters [He] called seas. and God saw that [it was] good.
 Notes:
 - lamed: with the respect to
 - gathering of waters is the ritual bath
 
 Genesis.1.11
 English: And God said, “Let the earth sprout vegetation, plants yielding seed, and fruit trees bearing fruit in which is their seed, each according to its kind, on the earth.” And it was so.
-Actual Greek: καὶ εἶπεν ὁ θεός Βλαστησάτω ἡ γῆ βοτάνην χόρτου, σπεῖρον σπέρμα κατὰ γένος καὶ καθ᾿ ὁμοιότητα, καὶ ξύλον κάρπιμον ποιοῦν καρπόν, οὗ τὸ σπέρμα αὐτοῦ ἐν αὐτῷ κατὰ γένος ἐπὶ τῆς γῆς. καὶ ἐγένετο οὕτως.
-Literal Greek: and God said Let the earth grow pastures of grass, sowing seed according to species and according to likeness, and fruit bearing trees making fruit, the seed of which [tree] [is] in it according to species on the earth. it came to be like this.
-Actual Hebrew: וַיֹּ֣אמֶר אֱלֹהִ֗ים תַּֽדְשֵׁ֤א הָאָ֙רֶץ֙ דֶּ֔שֶׁא עֵ֚שֶׂב מַזְרִ֣יעַ זֶ֔רַע עֵ֣ץ פְּרִ֞י עֹ֤שֶׂה פְּרִי֙ לְמִינ֔וֹ אֲשֶׁ֥ר זַרְעוֹ־ב֖וֹ עַל־הָאָ֑רֶץ וַֽיְהִי־כֵֽן׃
-Literal Hebrew: and God said let the earth sprout plants yielding seed and fruit trees yielding seed of every type on the earth and so it came to be.
+Greek: καὶ εἶπεν ὁ θεός Βλαστησάτω ἡ γῆ βοτάνην χόρτου, σπεῖρον σπέρμα κατὰ γένος καὶ καθ᾿ ὁμοιότητα, καὶ ξύλον κάρπιμον ποιοῦν καρπόν, οὗ τὸ σπέρμα αὐτοῦ ἐν αὐτῷ κατὰ γένος ἐπὶ τῆς γῆς. καὶ ἐγένετο οὕτως.
+Greek Translation: and God said Let the earth grow pastures of grass, sowing seed according to species and according to likeness, and fruit bearing trees making fruit, the seed of which [tree] [is] in it according to species on the earth. and it came to be like this.
+Hebrew: וַיֹּ֣אמֶר אֱלֹהִ֗ים תַּֽדְשֵׁ֤א הָאָ֙רֶץ֙ דֶּ֔שֶׁא עֵ֚שֶׂב מַזְרִ֣יעַ זֶ֔רַע עֵ֣ץ פְּרִ֞י עֹ֤שֶׂה פְּרִי֙ לְמִינ֔וֹ אֲשֶׁ֥ר זַרְעוֹ־ב֖וֹ עַל־הָאָ֑רֶץ וַֽיְהִי־כֵֽן׃
+Hebrew Translation: and God said let the earth sprout plants yielding seed and fruit trees yielding seed of every type on the earth and so it came to be.
 Notes:
 -
 
 Genesis.1.12
 English: The earth brought forth vegetation, plants yielding seed according to their own kinds, and trees bearing fruit in which is their seed, each according to its kind. And God saw that it was good.
-Actual Greek:καὶ ἐξήνεγκεν ἡ γῆ βοτάνην χόρτου, σπεῖρον σπέρμα κατὰ γένος καὶ καθ᾿ ὁμοιότητα, καὶ ξύλον κάρπιμον ποιοῦν καρπόν, οὗ τὸ σπέρμα αὐτοῦ ἐν αὐτῷ κατὰ γένος ἐπὶ τῆς γῆς. καὶ εἶδεν ὁ θεὸς ὅτι καλόν.
-Literal Greek: and the earth brought forth pastures of grass, sowing seed according to both species and similarity, and fruit bearing trees making fruit, the seed of which [tree] [is] in it according to species on the earth. and God saw that [it was] good.
-Actual Hebrew:וַתּוֹצֵ֨א הָאָ֜רֶץ דֶּ֠שֶׁא עֵ֣שֶׂב מַזְרִ֤יעַ זֶ֙רַע֙ לְמִינֵ֔הוּ וְעֵ֧ץ עֹֽשֶׂה־פְּרִ֛י אֲשֶׁ֥ר זַרְעוֹ־ב֖וֹ לְמִינֵ֑הוּ וַיַּ֥רְא אֱלֹהִ֖ים כִּי־טֽוֹב׃
-Literal Hebrew: and the earth brought forth plants yielding seed and fruit trees yielding seed of every type on the earth. and God saw it [was] good
+Greek:καὶ ἐξήνεγκεν ἡ γῆ βοτάνην χόρτου, σπεῖρον σπέρμα κατὰ γένος καὶ καθ᾿ ὁμοιότητα, καὶ ξύλον κάρπιμον ποιοῦν καρπόν, οὗ τὸ σπέρμα αὐτοῦ ἐν αὐτῷ κατὰ γένος ἐπὶ τῆς γῆς. καὶ εἶδεν ὁ θεὸς ὅτι καλόν.
+Greek Translation: and the earth brought forth pastures of grass, sowing seed according to both species and similarity, and fruit bearing trees making fruit, the seed of which [tree] [is] in it according to species on the earth. and God saw that [it was] good.
+Hebrew:וַתּוֹצֵ֨א הָאָ֜רֶץ דֶּ֠שֶׁא עֵ֣שֶׂב מַזְרִ֤יעַ זֶ֙רַע֙ לְמִינֵ֔הוּ וְעֵ֧ץ עֹֽשֶׂה־פְּרִ֛י אֲשֶׁ֥ר זַרְעוֹ־ב֖וֹ לְמִינֵ֑הוּ וַיַּ֥רְא אֱלֹהִ֖ים כִּי־טֽוֹב׃
+Hebrew Translation: and the earth brought forth plants yielding seed and fruit trees yielding seed of every type on the earth. and God saw it [was] good
 Notes:
 - simplicity of Hebrew at the end
 
 Genesis.1.13
 English: And there was evening and there was morning, the third day.
-Actual Greek: καὶ ἐγένετο ἑσπέρα καὶ ἐγένετο πρωί, ἡμέρα τρίτη.
-Literal Greek: and night was and it was morning, day three
-Actual Hebrew: וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם שְׁלִישִֽׁי׃
-Literal Hebrew: and it was evening and it was morning, third day
+Greek: καὶ ἐγένετο ἑσπέρα καὶ ἐγένετο πρωί, ἡμέρα τρίτη.
+Greek Translation: and night was and it was morning, day three
+Hebrew: וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם שְׁלִישִֽׁי׃
+Hebrew Translation: and it was evening and it was morning, third day
 Notes:
 -
 
 Genesis.1.14
 English: And God said, “Let there be lights in the expanse of the heavens to separate the day from the night. And let them be for signs and for seasons, and for days and years,
-Actual Greek: Καὶ εἶπεν ὁ θεός Γενηθήτωσαν φωστῆρες ἐν τῷ στερεώματι τοῦ οὐρανοῦ εἰς φαῦσιν τῆς γῆς τοῦ διαχωρίζειν ἀνὰ μέσον τῆς ἡμέρας καὶ ἀνὰ μέσον τῆς νυκτὸς καὶ ἔστωσαν εἰς σημεῖα καὶ εἰς καιροὺς καὶ εἰς ἡμέρας καὶ εἰς ἐνιαυτοὺς
-Literal Greek: and God said let there be lights in the firmament of the heaven to separate the light of the earth between day and night and let them [the lights] be for signs and for seasons and for days and for years
-Actual Hebrew: וַיֹּ֣אמֶר אֱלֹהִ֗ים יְהִ֤י מְאֹרֹת֙ בִּרְקִ֣יעַ הַשָּׁמַ֔יִם לְהַבְדִּ֕יל בֵּ֥ין הַיּ֖וֹם וּבֵ֣ין הַלָּ֑יְלָה וְהָי֤וּ לְאֹתֹת֙ וּלְמ֣וֹעֲדִ֔ים
-Literal Hebrew: and God said let there be lights in the expanse of the heavens to separate between the day and the night and let them be for signs and for seasons and for days and years.
+Greek: Καὶ εἶπεν ὁ θεός Γενηθήτωσαν φωστῆρες ἐν τῷ στερεώματι τοῦ οὐρανοῦ εἰς φαῦσιν τῆς γῆς τοῦ διαχωρίζειν ἀνὰ μέσον τῆς ἡμέρας καὶ ἀνὰ μέσον τῆς νυκτὸς καὶ ἔστωσαν εἰς σημεῖα καὶ εἰς καιροὺς καὶ εἰς ἡμέρας καὶ εἰς ἐνιαυτοὺς
+Greek Translation: and God said let there be lights in the firmament of the heaven to separate the light of the earth between day and night and let them [the lights] be for signs and for seasons and for days and for years
+Hebrew: וַיֹּ֣אמֶר אֱלֹהִ֗ים יְהִ֤י מְאֹרֹת֙ בִּרְקִ֣יעַ הַשָּׁמַ֔יִם לְהַבְדִּ֕יל בֵּ֥ין הַיּ֖וֹם וּבֵ֣ין הַלָּ֑יְלָה וְהָי֤וּ לְאֹתֹת֙ וּלְמ֣וֹעֲדִ֔ים
+Hebrew Translation: and God said let there be lights in the expanse of the heavens to separate between the day and the night and let them be for signs and for seasons and for days and years.
 Notes:
 
 Genesis.1.15
 English: and let them be lights in the expanse of the heavens to give light upon the earth.” And it was so.
-Actual Greek: καὶ ἔστωσαν εἰς φαῦσιν ἐν τῷ στερεώματι τοῦ οὐρανοῦ ὥστε φαίνειν ἐπὶ τῆς γῆς. καὶ ἐγένετο οὕτως.
-Literal Greek: and let them be for light in the firmament of the heaven in order to shine upon the earth. and it came it be like this.
-Actual Hebrew: וְהָי֤וּ לִמְאוֹרֹת֙ בִּרְקִ֣יעַ הַשָּׁמַ֔יִם לְהָאִ֖יר עַל־הָאָ֑רֶץ וַֽיְהִי־כֵֽן
-Literal Hebrew: and let them serve as lights in the expanse of the heavens to light over the earth. and so it was.
+Greek: καὶ ἔστωσαν εἰς φαῦσιν ἐν τῷ στερεώματι τοῦ οὐρανοῦ ὥστε φαίνειν ἐπὶ τῆς γῆς. καὶ ἐγένετο οὕτως.
+Greek Translation: and let them be for light in the firmament of the heaven in order to shine upon the earth. and it came it be like this.
+Hebrew: וְהָי֤וּ לִמְאוֹרֹת֙ בִּרְקִ֣יעַ הַשָּׁמַ֔יִם לְהָאִ֖יר עַל־הָאָ֑רֶץ וַֽיְהִי־כֵֽן
+Hebrew Translation: and let them serve as lights in the expanse of the heavens to light over the earth. and so it was.
 Notes:
 -
 
 Genesis.1.16
 English: And God made the two great lights—the greater light to rule the day and the lesser light to rule the night—and the stars.
-Actual Greek: καὶ ἐποίησεν ὁ θεὸς τοὺς δύο φωστῆρας τοὺς μεγάλους, τὸν φωστῆρα τὸν μέγαν εἰς ἀρχὰς τῆς ἡμέρας καὶ τὸν φωστῆρα τὸν ἐλάσσω εἰς ἀρχὰς τῆς νυκτός, καὶ τοὺς ἀστέρας.
-Literal Greek: and God made both the lights great, the great light in the beginning of the day and the little light in the beginning of the night, and the stars
-Actual Hebrew:  וַיַּ֣עַשׂ אֱלֹהִ֔ים אֶת־שְׁנֵ֥י הַמְּאֹרֹ֖ת הַגְּדֹלִ֑ים אֶת־הַמָּא֤וֹר הַגָּדֹל֙ לְמֶמְשֶׁ֣לֶת הַיּ֔וֹם וְאֶת־הַמָּא֤וֹר הַקָּטֹן֙ לְמֶמְשֶׁ֣לֶת הַלַּ֔יְלָה וְאֵ֖ת הַכּוֹכָבִֽים׃
-Literal Hebrew: and God made both of the great lights, the great light for ruling the day and the little light for ruling the night- and the stars
+Greek: καὶ ἐποίησεν ὁ θεὸς τοὺς δύο φωστῆρας τοὺς μεγάλους, τὸν φωστῆρα τὸν μέγαν εἰς ἀρχὰς τῆς ἡμέρας καὶ τὸν φωστῆρα τὸν ἐλάσσω εἰς ἀρχὰς τῆς νυκτός, καὶ τοὺς ἀστέρας.
+Greek Translation: and God made both the lights great, the great light in the beginning of the day and the little light in the beginning of the night, and the stars
+Hebrew:  וַיַּ֣עַשׂ אֱלֹהִ֔ים אֶת־שְׁנֵ֥י הַמְּאֹרֹ֖ת הַגְּדֹלִ֑ים אֶת־הַמָּא֤וֹר הַגָּדֹל֙ לְמֶמְשֶׁ֣לֶת הַיּ֔וֹם וְאֶת־הַמָּא֤וֹר הַקָּטֹן֙ לְמֶמְשֶׁ֣לֶת הַלַּ֔יְלָה וְאֵ֖ת הַכּוֹכָבִֽים׃
+Hebrew Translation: and God made both of the great lights, the great light for ruling the day and the little light for ruling the night- and the stars
 Notes:
 - strong disjunctive paired with DO marker?
 - weird possession of the stars
 
 Genesis.1.17
 English: And God set them in the expanse of the heavens to give light on the earth
-Actual Greek: καὶ ἔθετο αὐτοὺς ὁ θεὸς ἐν τῷ στερεώματι τοῦ οὐρανοῦ ὥστε φαίνειν ἐπὶ τῆς γῆς
-Literal Greek: and God put them [stars, big light, and little light] in the firmament of the heaven in order to shine upon the earth
-Actual Hebrew: וַיִּתֵּ֥ן אֹתָ֛ם אֱלֹהִ֖ים בִּרְקִ֣יעַ הַשָּׁמָ֑יִם לְהָאִ֖יר עַל־הָאָֽרֶץ׃
-Literal Hebrew: and God placed them [stars, great light, and little light] in the expanse of the heavens to be light upon the earth
+Greek: καὶ ἔθετο αὐτοὺς ὁ θεὸς ἐν τῷ στερεώματι τοῦ οὐρανοῦ ὥστε φαίνειν ἐπὶ τῆς γῆς
+Greek Translation: and God put them [stars, big light, and little light] in the firmament of the heaven in order to shine upon the earth
+Hebrew: וַיִּתֵּ֥ן אֹתָ֛ם אֱלֹהִ֖ים בִּרְקִ֣יעַ הַשָּׁמָ֑יִם לְהָאִ֖יר עַל־הָאָֽרֶץ׃
+Hebrew Translation: and God placed them [stars, great light, and little light] in the expanse of the heavens to be light upon the earth
 Notes:
 -
 
 Genesis.1.18
 English: to rule over the day and over the night, and to separate the light from the darkness. And God saw that it was good.
-Actual Greek: καὶ ἄρχειν τῆς ἡμέρας καὶ τῆς νυκτὸς καὶ διαχωρίζειν ἀνὰ μέσον τοῦ φωτὸς καὶ ἀνὰ μέσον τοῦ σκότους. καὶ εἶδεν ὁ θεὸς ὅτι καλόν.
-Literal Greek: and to rule the day and the night and to separate between the light and the darkness. and God saw that [it was] good.
-Actual Hebrew: וְלִמְשֹׁל֙ בַּיּ֣וֹם וּבַלַּ֔יְלָה וּֽלֲהַבְדִּ֔יל בֵּ֥ין הָא֖וֹר וּבֵ֣ין הַחֹ֑שֶׁךְ וַיַּ֥רְא אֱלֹהִ֖ים כִּי־טֽוֹב׃
-Literal Hebrew: and to rule over the day and the night and to separate between the light and the darkness. and God saw that [it was] good.
+Greek: καὶ ἄρχειν τῆς ἡμέρας καὶ τῆς νυκτὸς καὶ διαχωρίζειν ἀνὰ μέσον τοῦ φωτὸς καὶ ἀνὰ μέσον τοῦ σκότους. καὶ εἶδεν ὁ θεὸς ὅτι καλόν.
+Greek Translation: and to rule the day and the night and to separate between the light and the darkness. and God saw that [it was] good.
+Hebrew: וְלִמְשֹׁל֙ בַּיּ֣וֹם וּבַלַּ֔יְלָה וּֽלֲהַבְדִּ֔יל בֵּ֥ין הָא֖וֹר וּבֵ֣ין הַחֹ֑שֶׁךְ וַיַּ֥רְא אֱלֹהִ֖ים כִּי־טֽוֹב׃
+Hebrew Translation: and to rule over the day and the night and to separate between the light and the darkness. and God saw that [it was] good.
 Notes:
 -
 
 Genesis.1.19
 English: And there was evening and there was morning, the fourth day.
-Actual Greek: καὶ ἐγένετο ἑσπέρα καὶ ἐγένετο πρωί, ἡμέρα τετάρτη.
-Literal Greek: and night was and it was morning, fourth day.
-Actual Hebrew: וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם רְבִיעִֽי׃ פ
-Literal Hebrew: and it was evening and it was morning, fourth day.
+Greek: καὶ ἐγένετο ἑσπέρα καὶ ἐγένετο πρωί, ἡμέρα τετάρτη.
+Greek Translation: and night was and it was morning, fourth day.
+Hebrew: וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם רְבִיעִֽי׃ פ
+Hebrew Translation: and it was evening and it was morning, fourth day.
 Notes:
 -
 
 Genesis.1.20
 English: And God said, “Let the waters swarm with swarms of living creatures, and let birds fly above the earth across the expanse of the heavens.”
-Actual Greek: Καὶ εἶπεν ὁ θεός Ἐξαγαγέτω τὰ ὕδατα ἑρπετὰ ψυχῶν ζωσῶν καὶ πετεινὰ πετόμενα ἐπὶ τῆς γῆς κατὰ τὸ στερέωμα τοῦ οὐρανοῦ. καὶ ἐγένετο οὕτως.
-Literal Greek: and God said Let the water bring out living souls and flying birds upon the earth and around the firmament of the heaven. and like this it came to be.
-Actual Hebrew: וַיֹּ֣אמֶר אֱלֹהִ֔ים יִשְׁרְצ֣וּ הַמַּ֔יִם שֶׁ֖רֶץ נֶ֣פֶשׁ חַיָּ֑ה וְעוֹף֙ יְעוֹפֵ֣ף עַל־הָאָ֔רֶץ עַל־פְּנֵ֖י רְקִ֥יעַ הַשָּׁמָֽיִם׃
-Literal Hebrew: and God said let the waters team with the swarms of living creatures and let the birds fly above the earth, across the expanse of the heavens.
+Greek: Καὶ εἶπεν ὁ θεός Ἐξαγαγέτω τὰ ὕδατα ἑρπετὰ ψυχῶν ζωσῶν καὶ πετεινὰ πετόμενα ἐπὶ τῆς γῆς κατὰ τὸ στερέωμα τοῦ οὐρανοῦ. καὶ ἐγένετο οὕτως.
+Greek Translation: and God said Let the water bring out living souls and flying birds upon the earth and around the firmament of the heaven. and it came to be like this.
+Hebrew: וַיֹּ֣אמֶר אֱלֹהִ֔ים יִשְׁרְצ֣וּ הַמַּ֔יִם שֶׁ֖רֶץ נֶ֣פֶשׁ חַיָּ֑ה וְעוֹף֙ יְעוֹפֵ֣ף עַל־הָאָ֔רֶץ עַל־פְּנֵ֖י רְקִ֥יעַ הַשָּׁמָֽיִם׃
+Hebrew Translation: and God said let the waters team with the swarms of living creatures and let the birds fly above the earth, across the expanse of the heavens.
 Notes:
 - awkward construction all around
 - it came to be in Greek
 
 Genesis.1.21
-English:
-Actual Greek:
-Literal Greek:
-Actual Hebrew:
-Literal Hebrew:
+English: So God created the great sea creatures and every living creature that moves, with which the waters swarm, according to their kinds, and every winged bird according to its kind. And God saw that it was good.
+Greek:  καὶ ἐποίησεν ὁ θεὸς τὰ κήτη τὰ μεγάλα καὶ πᾶσαν ψυχὴν ζῴων ἑρπετῶν, ἃ ἐξήγαγεν τὰ ὕδατα κατὰ γένη αὐτῶν, καὶ πᾶν πετεινὸν πτερωτὸν κατὰ γένος. καὶ εἶδεν ὁ θεὸς ὅτι καλά.
+Greek Translation: and God made the great sea monsters and all of the moving living creatures, which lead the water according to  their kind, and all the flying birds according to type. and God saw that [it was] good.
+Hebrew: וַיִּבְרָ֣א אֱלֹהִ֔ים אֶת־הַתַּנִּינִ֖ם הַגְּדֹלִ֑ים וְאֵ֣ת כָּל־נֶ֣פֶשׁ הַֽחַיָּ֣ה ׀ הָֽרֹמֶ֡שֶׂת אֲשֶׁר֩ שָׁרְצ֨וּ הַמַּ֜יִם לְמִֽינֵהֶ֗ם וְאֵ֨ת כָּל־ע֤וֹף כָּנָף֙ לְמִינֵ֔הוּ וַיַּ֥רְא אֱלֹהִ֖ים כִּי־טֽוֹב׃
+Hebrew Translation: and God made the great sea monsters and all the living creatues. The things which crawl, swarm the earth [according] to their kinds, and all the flying birds [according] to type. and God saw that [it was] good.
 Notes:
 -
 
 Genesis.1.22
-English:
-Actual Greek:
-Literal Greek:
-Actual Hebrew:
-Literal Hebrew:
+English: And God blessed them, saying, n“Be fruitful and multiply and fill the waters in the seas, and let birds multiply on the earth.”
+Greek: καὶ ηὐλόγησεν αὐτὰ ὁ θεὸς λέγων Αὐξάνεσθε καὶ πληθύνεσθε καὶ πληρώσατε τὰ ὕδατα ἐν ταῖς θαλάσσαις, καὶ τὰ πετεινὰ πληθυνέσθωσαν ἐπὶ τῆς γῆς.
+Greek Translation: and God blessed them saying Increase and multiply and fill the waters in the seas, and let the birds multiply on the earth.
+Hebrew: וַיְבָ֧רֶךְ אֹתָ֛ם אֱלֹהִ֖ים לֵאמֹ֑ר פְּר֣וּ וּרְב֗וּ וּמִלְא֤וּ אֶת־הַמַּ֙יִם֙ בַּיַּמִּ֔ים וְהָע֖וֹף יִ֥רֶב בָּאָֽרֶץ׃
+Hebrew Translation: and God blessed them saying to be fruitful and to multiple and to fill the waters in the seas and let the bird multiply on the earth.
 Notes:
 -
 
 Genesis.1.23
-English:
-Actual Greek:
-Literal Greek:
-Actual Hebrew:
-Literal Hebrew:
+English: And there was evening and there was morning, the fifth day.
+Greek: καὶ ἐγένετο ἑσπέρα καὶ ἐγένετο πρωί, ἡμέρα πέμπτη.
+Greek Translation: and night was and it was morning, fifth day.
+Hebrew: וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם חֲמִישִֽׁי׃ פ
+Hebrew Translation: and it was evening and it was morning, fifth day.
 Notes:
 -
 
 Genesis.1.24
-English:
-Actual Greek:
-Literal Greek:
-Actual Hebrew:
-Literal Hebrew:
+English: And God said, “Let the earth bring forth living creatures according to their kinds—livestock and creeping things and beasts of the earth according to their kinds.” And it was so.
+Greek:	Καὶ εἶπεν ὁ θεός Ἐξαγαγέτω ἡ γῆ ψυχὴν ζῶσαν κατὰ γένος, τετράποδα καὶ ἑρπετὰ καὶ θηρία τῆς γῆς κατὰ γένος. καὶ ἐγένετο οὕτως.
+Greek Translation: and God said Let the earth bring out living creatures according to kind, four footed things and creeping things and wild animals of the earth according to kind. and it came to be like this.
+Hebrew: וַיֹּ֣אמֶר אֱלֹהִ֗ים תּוֹצֵ֨א הָאָ֜רֶץ נֶ֤פֶשׁ חַיָּה֙ לְמִינָ֔הּ בְּהֵמָ֥ה וָרֶ֛מֶשׂ וְחַֽיְתוֹ־אֶ֖רֶץ לְמִינָ֑הּ וַֽיְהִי־כֵֽן׃
+Hebrew Translation: and God said Let the earth come out living things [according] to kind, livestock and creeping things and living things of the earth [according] to kind. and it was so.
 Notes:
--
+- ἑρπετὰ better meaning
+- difference in Greek lists
+- "come" ?
 
 Genesis.1.25
-English:
-Actual Greek:
-Literal Greek:
-Actual Hebrew:
-Literal Hebrew:
+English: And God made the beasts of the earth according to their kinds and the livestock according to their kinds, and everything that creeps on the ground according to its kind. And God saw that it was good.
+Greek: καὶ ἐποίησεν ὁ θεὸς τὰ θηρία τῆς γῆς κατὰ γένος καὶ τὰ κτήνη κατὰ γένος καὶ πάντα τὰ ἑρπετὰ τῆς γῆς κατὰ γένος αὐτῶν. καὶ εἶδεν ὁ θεὸς ὅτι καλά.
+Greek Translation: and God made the wild animals of the earth according to kind and the herds according to kind and all the animals of the earth according to their kinds. and God saw that [it was] good.
+Hebrew: וַיַּ֣עַשׂ אֱלֹהִים֩ אֶת־חַיַּ֨ת הָאָ֜רֶץ לְמִינָ֗הּ וְאֶת־הַבְּהֵמָה֙ לְמִינָ֔הּ וְאֵ֛ת כָּל־רֶ֥מֶשׂ הָֽאֲדָמָ֖ה לְמִינֵ֑הוּ וַיַּ֥רְא אֱלֹהִ֖ים כִּי־טֽוֹב׃
+Hebrew Translation: and God made the living of the earth [according] to kind and the beast [according] to kind and all of the creeping thing[s] of the ground [according] to kind. and God saw that [it was] good.
 Notes:
 -
 
 Genesis.1.26
-English:
-Actual Greek:
-Literal Greek:
-Actual Hebrew:
-Literal Hebrew:
+English: Then God said, “Let us make man in our image, after our likeness. And let them have dominion over the fish of the sea and over the birds of the heavens and over the livestock and over all the earth and over every creeping thing that creeps on the earth.”
+Greek: καὶ εἶπεν ὁ θεός Ποιήσωμεν ἄνθρωπον κατ᾿ εἰκόνα ἡμετέραν καὶ καθ᾿ ὁμοίωσιν, καὶ ἀρχέτωσαν τῶν ἰχθύων τῆς θαλάσσης καὶ τῶν πετεινῶν τοῦ οὐρανοῦ καὶ τῶν κτηνῶν καὶ πάσης τῆς γῆς καὶ πάντων τῶν ἑρπετῶν τῶν ἑρπόντων ἐπὶ τῆς γῆς.
+Greek Translation: and God said We could make man according to to our image and according to [our] likeness, and let them rule over the fish of the sea and the birds of the heavens and the livestock and all of the earth and all of the creeping animals on the earth.
+Hebrew:וַיֹּ֣אמֶר אֱלֹהִ֔ים נַֽעֲשֶׂ֥ה אָדָ֛ם בְּצַלְמֵ֖נוּ כִּדְמוּתֵ֑נוּ וְיִרְדּוּ֩ בִדְגַ֨ת הַיָּ֜ם וּבְע֣וֹף הַשָּׁמַ֗יִם וּבַבְּהֵמָה֙ וּבְכָל־הָאָ֔רֶץ וּבְכָל־הָרֶ֖מֶשׂ הָֽרֹמֵ֥שׂ עַל־הָאָֽרֶץ׃
+Hebrew Translation: and we shall make man in our image like our likeness and let them rule the fish of the sea and the bird of the heavens and the beast and all of the earth and all of the creeping things of the earth.
 Notes:
--
+- subjunctive ποιέω
+- pattern?
+- image isn't definite
+- repetition of creeping H
 
 Genesis.1.27
-English:
-Actual Greek:
-Literal Greek:
-Actual Hebrew:
-Literal Hebrew:
+English: So God created man in his own image,	in the image of God he created him; male and female he created them.
+Greek: καὶ ἐποίησεν ὁ θεὸς τὸν ἄνθρωπον, κατ᾿ εἰκόνα θεοῦ ἐποίησεν αὐτόν, ἄρσεν καὶ θῆλυ ἐποίησεν αὐτούς.
+Greek Translation: and God made man, according to an image of God He made him, man and womanly He made them.
+Hebrew:וַיִּבְרָ֨א אֱלֹהִ֤ים ׀ אֶת־הָֽאָדָם֙ בְּצַלְמ֔וֹ בְּצֶ֥לֶם אֱלֹהִ֖ים בָּרָ֣א אֹת֑וֹ זָכָ֥ר וּנְקֵבָ֖ה בָּרָ֥א אֹתָֽם׃
+Hebrew Translation: and God created man, in His image. and in the image of God He created him [man]. male and female He created them
 Notes:
--
+- image isn't definite!
+- noun vs adj of man and woman
+- different creation verb
+- awkward ending construction; accents solve image issue?
 
 Genesis.1.28
-English:
-Actual Greek:
-Literal Greek:
-Actual Hebrew:
-Literal Hebrew:
+English: And God blessed them. And God said to them, “Be fruitful and multiply and fill the earth and subdue it, and have dominion over the fish of the sea and over the birds of the heavens and over every living thing that moves on the earth.”
+Greek: καὶ ηὐλόγησεν αὐτοὺς ὁ θεὸς λέγων Αὐξάνεσθε καὶ πληθύνεσθε καὶ πληρώσατε τὴν γῆν καὶ κατακυριεύσατε αὐτῆς καὶ ἄρχετε τῶν ἰχθύων τῆς θαλάσσης καὶ τῶν πετεινῶν τοῦ οὐρανοῦ καὶ πάντων τῶν κτηνῶν καὶ πάσης τῆς γῆς καὶ πάντων τῶν ἑρπετῶν τῶν ἑρπόντων ἐπὶ τῆς γῆς.
+Greek Translation: and God blessed them saying Increase and multiply and fill the earth and exercise dominion over it and rule the fish of the sea and the birds of the sky and all of the flocks and all of the earth and all of the creeping animals on the earth.
+Hebrew:וַיְבָ֣רֶךְ אֹתָם֮ אֱלֹהִים֒ וַיֹּ֨אמֶר לָהֶ֜ם אֱלֹהִ֗ים פְּר֥וּ וּרְב֛וּ וּמִלְא֥וּ אֶת־הָאָ֖רֶץ וְכִבְשֻׁ֑הָ וּרְד֞וּ בִּדְגַ֤ת הַיָּם֙ וּבְע֣וֹף הַשָּׁמַ֔יִם וּבְכָל־חַיָּ֖ה הָֽרֹמֶ֥שֶׂת עַל־הָאָֽרֶץ׃
+Hebrew Translation: and God blessed them and God said to them Be fruitful and multiply and fill the earth and subdue it, and rule over the fish of the sea and over the bird[s] of the heavens and over all of the creeping things on the earth.
 Notes:
--
+- how should we handle quotes
+
+
 
 Genesis.1.29
-English:
-Actual Greek:
-Literal Greek:
-Actual Hebrew:
-Literal Hebrew:
+English: And God said, “Behold, I have given you every plant yielding seed that is on the face of all the earth, and every tree with seed in its fruit. You shall have them for food.
+Greek: καὶ εἶπεν ὁ θεός Ἰδοὺ δέδωκα ὑμῖν πᾶν χόρτον σπόριμον σπεῖρον σπέρμα, ὅ ἐστιν ἐπάνω πάσης τῆς γῆς, καὶ πᾶν ξύλον, ὃ ἔχει ἐν ἑαυτῷ καρπὸν σπέρματος σπορίμου. ὑμῖν ἔσται εἰς βρῶσιν.
+Greek Translation: and God said Look I have given to you all grass yielding seed, all which is upon the earth, and all trees, which have in itself seed yielding fruit. It will be to you as food.
+Hebrew:וַיֹּ֣אמֶר אֱלֹהִ֗ים הִנֵּה֩ נָתַ֨תִּי לָכֶ֜ם אֶת־כָּל־עֵ֣שֶׂב ׀ זֹרֵ֣עַ זֶ֗רַע אֲשֶׁר֙ עַל־פְּנֵ֣י כָל־הָאָ֔רֶץ וְאֶת־כָּל־הָעֵ֛ץ אֲשֶׁר־בּ֥וֹ פְרִי־עֵ֖ץ זֹרֵ֣עַ זָ֑רַע לָכֶ֥ם יִֽהְיֶ֖ה לְאָכְלָֽה׃
+Hebrew Translation: and God said Behold I gave you all the plants yielding seed all which is on the face of the earth, and all of the trees which in it is the tree of fruit . It will be food to [you].
+Notes:
+- trees of fruit
+- ending issues
+
+Genesis.1.30
+English: And to every beast of the earth and to every bird of the heavens and to everything that creeps on the earth, everything that has the breath of life, I have given every green plant for food.” And it was so.
+Greek: καὶ πᾶσι τοῖς θηρίοις τῆς γῆς καὶ πᾶσι τοῖς πετεινοῖς τοῦ οὐρανοῦ καὶ παντὶ ἑρπετῷ τῷ ἕρποντι ἐπὶ τῆς γῆς, ὃ ἔχει ἐν ἑαυτῷ ψυχὴν ζωῆς, πάντα χόρτον χλωρὸν εἰς βρῶσιν. καὶ ἐγένετο οὕτως.
+Greek Translation: and to all the wild animals of the earth and to all the birds of the sky and to all the creeping animals of the earth, [all] whom have the spirit of life in them, all the green grass [will be] for food. And it came to be like this.
+Hebrew: וּֽלְכָל־חַיַּ֣ת הָ֠אָרֶץ וּלְכָל־ע֨וֹף הַשָּׁמַ֜יִם וּלְכֹ֣ל ׀ רוֹמֵ֣שׂ עַל־הָאָ֗רֶץ אֲשֶׁר־בּוֹ֙ נֶ֣פֶשׁ חַיָּ֔ה אֶת־כָּל־יֶ֥רֶק עֵ֖שֶׂב לְאָכְלָ֑ה וַֽיְהִי־כֵֽן׃
+Hebrew Translation: and all of the wild animals of the earth and all the bird of the sky and all the creeping things on the earth, [all] which in it [is] a living soul, all green plants [I have given] for food. and it was so.
 Notes:
 -
 
-Genesis.1.30
+Genesis.1.31
+English: And God saw everything that he had made, and behold, it was very good. And there was evening and there was morning, the sixth day.
+Greek: καὶ εἶδεν ὁ θεὸς τὰ πάντα, ὅσα ἐποίησεν, καὶ ἰδοὺ καλὰ λίαν. καὶ ἐγένετο ἑσπέρα καὶ ἐγένετο πρωί, ἡμέρα ἕκτη.
+Greek Translation: and God saw all the things, as much as He made, and look [it was] very good. and night came to be and it was morning, sixth day.
+Hebrew:וַיַּ֤רְא אֱלֹהִים֙ אֶת־כָּל־אֲשֶׁ֣ר עָשָׂ֔ה וְהִנֵּה־ט֖וֹב מְאֹ֑ד וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם הַשִּׁשִּֽׁי׃ פ
+Hebrew Translation: and God saw all which he made and behold [it was] very good. and it was evening and it was morning, the sixth day.
+Notes:
+- behold?
+
+
+Genesis.2.1
 English:
-Actual Greek:
-Literal Greek:
-Actual Hebrew:
-Literal Hebrew:
+Greek:
+Greek Translation:
+Hebrew:
+Hebrew Translation:
+Notes:
+-
+
+
+Genesis.2.2
+English:
+Greek:
+Greek Translation:
+Hebrew:
+Hebrew Translation:
+Notes:
+-
+
+Genesis.2.3
+English:
+Greek:
+Greek Translation:
+Hebrew:
+Hebrew Translation:
+Notes:
+-
+
+Genesis.2.4
+English:
+Greek:
+Greek Translation:
+Hebrew:
+Hebrew Translation:
+Notes:
+-
+
+Genesis.2.5
+English:
+Greek:
+Greek Translation:
+Hebrew:
+Hebrew Translation:
+Notes:
+-
+
+Genesis.2.6
+English:
+Greek:
+Greek Translation:
+Hebrew:
+Hebrew Translation:
+Notes:
+-
+
+Genesis.2.7
+English:
+Greek:
+Greek Translation:
+Hebrew:
+Hebrew Translation:
+Notes:
+-
+
+Genesis.2.8
+English:
+Greek:
+Greek Translation:
+Hebrew:
+Hebrew Translation:
+Notes:
+-
+
+
+Genesis.2.9
+English:
+Greek:
+Greek Translation:
+Hebrew:
+Hebrew Translation:
+Notes:
+-
+
+Genesis.2.10
+English:
+Greek:
+Greek Translation:
+Hebrew:
+Hebrew Translation:
+Notes:
+-
+
+Genesis.2.11
+English:
+Greek:
+Greek Translation:
+Hebrew:
+Hebrew Translation:
+Notes:
+-
+
+Genesis.2.12
+English:
+Greek:
+Greek Translation:
+Hebrew:
+Hebrew Translation:
+Notes:
+-
+
+Genesis.2.13
+English:
+Greek:
+Greek Translation:
+Hebrew:
+Hebrew Translation:
+Notes:
+-
+Genesis.2.14
+English:
+Greek:
+Greek Translation:
+Hebrew:
+Hebrew Translation:
+Notes:
+-
+
+Genesis.2.15
+English:
+Greek:
+Greek Translation:
+Hebrew:
+Hebrew Translation:
+Notes:
+-
+
+Genesis.2.16
+English:
+Greek:
+Greek Translation:
+Hebrew:
+Hebrew Translation:
+Notes:
+-
+
+Genesis.2.17
+English:
+Greek:
+Greek Translation:
+Hebrew:
+Hebrew Translation:
+Notes:
+-
+
+Genesis.2.18
+English:
+Greek:
+Greek Translation:
+Hebrew:
+Hebrew Translation:
+Notes:
+-
+
+Genesis.2.19
+English:
+Greek:
+Greek Translation:
+Hebrew:
+Hebrew Translation:
 Notes:
 -
