@@ -449,7 +449,7 @@ English: And the LORD God commanded the man, saying, “You may surely eat of ev
 Greek: καὶ ἐνετείλατο κύριος ὁ θεὸς τῷ Αδαμ λέγων Ἀπὸ παντὸς ξύλου τοῦ ἐν τῷ παραδείσῳ βρώσει φάγῃ,
 Greek Translation: and the Lord God commanded Adam saying, from every tree in the food garden you will eat.
 Hebrew: וַיְצַו֙ יְהוָ֣ה אֱלֹהִ֔ים עַל־הָֽאָדָ֖ם לֵאמֹ֑ר מִכֹּ֥ל עֵֽץ־הַגָּ֖ן אָכֹ֥ל תֹּאכֵֽל׃
-Hebrew Translation: and the Lord God commanded the man to say, you will surely eat from all the trees of the garden.
+Hebrew Translation: and the Lord God commanded the man saying, you will surely eat from every tree of the garden.
 Notes:
 -
 
@@ -458,25 +458,25 @@ English: but of the tree of the knowledge of good and evil you shall not eat, fo
 Greek: ἀπὸ δὲ τοῦ ξύλου τοῦ γινώσκειν καλὸν καὶ πονηρόν, οὐ φάγεσθε ἀπ᾿ αὐτοῦ· ᾗ δ᾿ ἂν ἡμέρᾳ φάγητε ἀπ᾿ αὐτοῦ, θανάτῳ ἀποθανεῖσθε.
 Greek Translation: but from the tree of knowing good and evil, you will not eat of it, for, if so, the day which you eat from it, you will surely die.
 Hebrew:וּמֵעֵ֗ץ הַדַּ֙עַת֙ ט֣וֹב וָרָ֔ע לֹ֥א תֹאכַ֖ל מִמֶּ֑נּוּ כִּ֗י בְּי֛וֹם אֲכָלְךָ֥ מִמֶּ֖נּוּ מ֥וֹת תָּמֽוּת׃
-Hebrew Translation: and from the tree of knowledge of good and evil, you will not eat from it, because on a day you eat from it you will surely die.
+Hebrew Translation: but from the tree of knowledge of good and evil, you will not eat from it, because on the day you eat from it you will surely die.
 Notes:
-- definite day
+-
 
 Genesis.2.18
 English: Then the LORD God said, “It is not good that the man should be alone; I will make him a helper fit for him.”
 Greek: Καὶ εἶπεν κύριος ὁ θεός Οὐ καλὸν εἶναι τὸν ἄνθρωπον μόνον· ποιήσωμεν αὐτῷ βοηθὸν κατ᾿ αὐτόν.
 Greek Translation: and the Lord God said [It is] not good [for] man to be alone, I will make a helper from him according to him.
 Hebrew:וַיֹּ֙אמֶר֙ יְהוָ֣ה אֱלֹהִ֔ים לֹא־ט֛וֹב הֱי֥וֹת הָֽאָדָ֖ם לְבַדּ֑וֹ אֶֽעֱשֶׂהּ־לּ֥וֹ עֵ֖זֶר כְּנֶגְדּֽוֹ׃
-Hebrew Translation: and the Lord God said [it is] not good [for] man to be alone. I will make for him a helper like his opposite.
+Hebrew Translation: and the Lord God said [it is] not good [for] man to be alone. I will make for him a helper as his partner.
 Notes:
-- subjunctive?
+- subjunctive in Greek?
 
 Genesis.2.19
 English: Now out of the ground the LORD God had formed every beast of the field and every bird of the heavens and brought them to the man to see what he would call them. And whatever the man called every living creature, that was its name.
 Greek: καὶ ἔπλασεν ὁ θεὸς ἔτι ἐκ τῆς γῆς πάντα τὰ θηρία τοῦ ἀγροῦ καὶ πάντα τὰ πετεινὰ τοῦ οὐρανοῦ καὶ ἤγαγεν αὐτὰ πρὸς τὸν Αδαμ ἰδεῖν, τί καλέσει αὐτά, καὶ πᾶν, ὃ ἐὰν ἐκάλεσεν αὐτὸ Αδαμ ψυχὴν ζῶσαν, τοῦτο ὄνομα αὐτοῦ.
 Greek Translation: and still God formed out of the earth all the wild animals of the field and all the birds of the sky and He brought them toward Adam to see, what will you call them, and each which Adam called
 Hebrew:וַיִּצֶר֩ יְהוָ֨ה אֱלֹהִ֜ים מִן־הָֽאֲדָמָ֗ה כָּל־חַיַּ֤ת הַשָּׂדֶה֙ וְאֵת֙ כָּל־ע֣וֹף הַשָּׁמַ֔יִם וַיָּבֵא֙ אֶל־הָ֣אָדָ֔ם לִרְא֖וֹת מַה־יִּקְרָא־ל֑וֹ וְכֹל֩ אֲשֶׁ֨ר יִקְרָא־ל֧וֹ הָֽאָדָ֛ם נֶ֥פֶשׁ חַיָּ֖ה ה֥וּא שְׁמֽוֹ׃
-Hebrew Translation: and the Lord God formed from the ground every living creature of the field and every bird of the sky and He brought [them] to the man to see what he will call them and whatever the man will call the living creatures [that will be] his name.
+Hebrew Translation: and the Lord God formed from the ground every living creature of the field and every bird of the sky and He brought [them] to the man to see what he would call them and whatever the man would call the living creatures [that will be] its name.
 Notes:
 - weird greek
 
@@ -485,8 +485,8 @@ English: The man gave names to all livestock and to the birds of the heavens and
 Greek: Καὶ ἐκάλεσεν Αδαμ ὀνόματα πᾶσιν τοῖς κτήνεσιν καὶ πᾶσι τοῖς πετεινοῖς τοῦ οὐρανοῦ καὶ πᾶσι τοῖς θηρίοις τοῦ ἀγροῦ, τῷ δὲ Αδαμ οὐχ εὑρέθη βοηθὸς ὅμοιος αὐτῷ.
 Greek Translation and Adam called the names to every animal and to all the birds of the sky and to all the wild animals of the field, but for Adam no helper like him was found.
 Hebrew: וַיִּקְרָ֨א הָֽאָדָ֜ם שֵׁמ֗וֹת לְכָל־הַבְּהֵמָה֙ וּלְע֣וֹף הַשָּׁמַ֔יִם וּלְכֹ֖ל חַיַּ֣ת הַשָּׂדֶ֑ה וּלְאָדָ֕ם לֹֽא־מָצָ֥א עֵ֖זֶר כְּנֶגְדּֽוֹ׃
-Hebrew Translation: and the man called the names to every domestic animal and to the birds of the sky and to every beast of the field but for the man a helper was not found like him in front of him.
-Notes:
+Hebrew Translation: and the man spoke the names for every domestic animal and for the birds of the sky and for every beast of the field but for the man a helper was not found as his partner.
+Notes
 - in front of?
 
 Genesis.2.21
@@ -494,7 +494,7 @@ English: So the LORD God caused a deep sleep to fall upon the man, and while he 
 Greek:  καὶ ἐπέβαλεν ὁ θεὸς ἔκστασιν ἐπὶ τὸν Αδαμ, καὶ ὕπνωσεν· καὶ ἔλαβεν μίαν τῶν πλευρῶν αὐτοῦ καὶ ἀνεπλήρωσεν σάρκα ἀντ᾿ αὐτῆς.
 Greek Translation: and God threw a distraction at Adam, and He took one of the sides of him and He filled up the body like [it was] before it.
 Hebrew:וַיַּפֵּל֩ יְהוָ֨ה אֱלֹהִ֧ים ׀ תַּרְדֵּמָ֛ה עַל־הָאָדָ֖ם וַיִּישָׁ֑ן וַיִּקַּ֗ח אַחַת֙ מִצַּלְעֹתָ֔יו וַיִּסְגֹּ֥ר בָּשָׂ֖ר תַּחְתֶּֽנָּה׃
-Hebrew Translation: and the Lord God made sleep fall upon the man and He took one of his sides from him and He closed flesh wound it [the side].
+Hebrew Translation: and the Lord God made sleep fall upon the man and He took one of his ribs from him and He closed flesh around it.
 Notes:
 - ask Eunice about the weird ending
 
@@ -503,7 +503,7 @@ English: And the rib that the LORD God had taken from the man he made into a wom
 Greek: καὶ ᾠκοδόμησεν κύριος ὁ θεὸς τὴν πλευράν, ἣν ἔλαβεν ἀπὸ τοῦ Αδαμ, εἰς γυναῖκα καὶ ἤγαγεν αὐτὴν πρὸς τὸν Αδαμ.
 Greek Translation: and the Lord God built the side, which He took from Adam, into woman and He brought her close to Adam.
 Hebrew: וַיִּבֶן֩ יְהוָ֨ה אֱלֹהִ֧ים ׀ אֶֽת־הַצֵּלָ֛ע אֲשֶׁר־לָקַ֥ח מִן־הָֽאָדָ֖ם לְאִשָּׁ֑ה וַיְבִאֶ֖הָ אֶל־הָֽאָדָֽם׃
-Hebrew Translation: and the Lord God made the side which was taken from the man into woman and He brought her to the man.
+Hebrew Translation: and the Lord God made the rib which was taken from the man into woman and He brought her to the man.
 Notes:
 -
 Genesis.2.23
@@ -511,9 +511,9 @@ English: then the man said, “This at last is bone of my bones and flesh of my 
 Greek: καὶ εἶπεν Αδαμ Τοῦτο νῦν ὀστοῦν ἐκ τῶν ὀστέων μου καὶ σὰρξ ἐκ τῆς σαρκός μου· αὕτη κληθήσεται γυνή, ὅτι ἐκ τοῦ ἀνδρὸς αὐτῆς ἐλήμφθη αὕτη.
 Greek Translation: and Adam said, now this [is] bone out of my bone and flesh out of my flesh, she will be called woman, because out of man she was taken.
 Hebrew: וַיֹּאמֶר֮ הָֽאָדָם֒ זֹ֣את הַפַּ֗עַם עֶ֚צֶם מֵֽעֲצָמַ֔י וּבָשָׂ֖ר מִבְּשָׂרִ֑י לְזֹאת֙ יִקָּרֵ֣א אִשָּׁ֔ה כִּ֥י מֵאִ֖ישׁ לֻֽקֳחָה־זֹּֽאת׃
-Hebrew Translation: and the man said now this woman [is] bone from my bone and flesh from my flesh and I will call this woman because she was taken from man
+Hebrew Translation: and the man said now this one [is] bone from my bone and flesh from my flesh and I will call this one woman because she was taken from man
 Notes:
-- woman because female "this" or just this
+-
 
 Genesis.2.24
 English: Therefore a man shall leave his father and his mother and hold fast to his wife, and they shall become one flesh.
