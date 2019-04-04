@@ -1012,9 +1012,9 @@ English: This is the book of the generations of Adam. When God created man, he m
 Greek: Αὕτη ἡ βίβλος γενέσεως ἀνθρώπων· ᾗ ἡμέρᾳ ἐποίησεν ὁ θεὸς τὸν Αδαμ, κατ᾿ εἰκόνα θεοῦ ἐποίησεν αὐτόν·
 Greek Translation: This [is] the book of the family of man on the day God created Adam, He made him according to the image of God.
 Hebrew: זֶ֣ה סֵ֔פֶר תּוֹלְדֹ֖ת אָדָ֑ם בְּי֗וֹם בְּרֹ֤א אֱלֹהִים֙ אָדָ֔ם בִּדְמ֥וּת אֱלֹהִ֖ים עָשָׂ֥ה אֹתֽוֹ׃
-Hebrew Translation: This [is] the book of the generations of Adam on the day God created Adam, in the likeness of God He made him.
+Hebrew Translation: This [is] the book of the descendants of Adam. On the day God created man, in the likeness of God He made him.
 Notes:
-- rel pronoun
+- thematic introduction
 
 Genesis.5.2
 English: Male and female he created them, and he blessed them and named them Man when they were created.
@@ -1023,16 +1023,16 @@ Greek Translation: male and female he made them and he blessed them. and called 
 Hebrew: זָכָ֥ר וּנְקֵבָ֖ה בְּרָאָ֑ם וַיְבָ֣רֶךְ אֹתָ֗ם וַיִּקְרָ֤א אֶת־שְׁמָם֙ אָדָ֔ם בְּי֖וֹם הִבָּֽרְאָֽם׃ ס
 Hebrew Translation: male and female He created them and He blessed them. and he called their name Man on the day He made them.
 Notes:
--
+- significant shift of Adam in Man to particular man
 
 Genesis.5.3
 English: When Adam had lived 130 years, he fathered a son in his own likeness, after his image, and named him Seth.
 Greek: ἔζησεν δὲ Αδαμ διακόσια καὶ τριάκοντα ἔτη καὶ ἐγέννησεν κατὰ τὴν ἰδέαν αὐτοῦ καὶ κατὰ τὴν εἰκόνα αὐτοῦ καὶ ἐπωνόμασεν τὸ ὄνομα αὐτοῦ Σηθ.
 Greek Translation: when Adam lived 230 years, he also fathered [a son] according to his image and likeness and he called his name Seth.
 Hebrew:  וַֽיְחִ֣י אָדָ֗ם שְׁלֹשִׁ֤ים וּמְאַת֙ שָׁנָ֔ה וַיּ֥וֹלֶד בִּדְמוּת֖וֹ כְּצַלְמ֑וֹ וַיִּקְרָ֥א אֶת־שְׁמ֖וֹ שֵֽׁת׃
-Hebrew Translation: Adam lived 130 years and fathered in his likeness according to his image [a son] and he called his name Seth.
+Hebrew Translation: When Adam lived 130 years and fathered in his likeness according to his image [a son] and he called his name Seth.
 Notes:
-- waw = when??
+- actual genealogy
 
 Genesis.5.4
 English: The days of Adam after he fathered Seth were 800 years; and he had other sons and daughters.
@@ -1057,7 +1057,7 @@ English: When Seth had lived 105 years, he fathered Enosh.
 Greek: Ἔζησεν δὲ Σηθ διακόσια καὶ πέντε ἔτη καὶ ἐγέννησεν τὸν Ενως.
 Greek Translation: When Seth lived 205 years, then he fathered Enosh.
 Hebrew: וַֽיְחִי־שֵׁ֕ת חָמֵ֥שׁ שָׁנִ֖ים וּמְאַ֣ת שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־אֱנֽוֹשׁ׃
-Hebrew Translation: Seth lived 105 years and he fathered Enosh.
+Hebrew Translation: When Seth lived 105 years and he fathered Enosh.
 Notes:
 -
 
@@ -1084,9 +1084,9 @@ English: When Enosh had lived 90 years, he fathered Kenan.
 Greek: Καὶ ἔζησεν Ενως ἑκατὸν ἐνενήκοντα ἔτη καὶ ἐγέννησεν τὸν Καιναν.
 Greek Translation: When Enosh lived 90 years, then he fathered Kenan.
 Hebrew:  וַֽיְחִ֥י אֱנ֖וֹשׁ תִּשְׁעִ֣ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־קֵינָֽן׃
-Hebrew Translation: Enosh lived 9 years and he fathered Kenan.
+Hebrew Translation: When Enosh lived 9 years and he fathered Kenan.
 Notes:
-- 9 years?
+-
 
 Genesis.5.10
 English: Enosh lived after he fathered Kenan 815 years and had other sons and daughters.
@@ -1111,7 +1111,7 @@ English: When Kenan had lived 70 years, he fathered Mahalalel.
 Greek: Καὶ ἔζησεν Καιναν ἑκατὸν ἑβδομήκοντα ἔτη καὶ ἐγέννησεν τὸν Μαλελεηλ.
 Greek Translation: When Kenan lived 170 years then he fathered Mahalalel.
 Hebrew: וַֽיְחִ֥י קֵינָ֖ן שִׁבְעִ֣ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־מַֽהֲלַלְאֵֽל׃
-Hebrew Translation: Kenan lived 70 years and he fathered Mahalalel
+Hebrew Translation: When Kenan lived 70 years and he fathered Mahalalel
 Notes:
 -
 
@@ -1161,136 +1161,137 @@ Notes:
 -
 
 Genesis.5.18
-English:
-Greek:
-Greek Translation:
-Hebrew:
-Hebrew Translation:
+English: When Jared had lived 162 years, he fathered Enoch.
+Greek: Καὶ ἔζησεν Ιαρεδ ἑκατὸν καὶ ἑξήκοντα δύο ἔτη καὶ ἐγέννησεν τὸν Ενωχ.
+Greek Translation: and Jared lived 162 years and he fathered Enoch.
+Hebrew: וַֽיְחִי־יֶ֕רֶד שְׁתַּ֧יִם וְשִׁשִּׁ֛ים שָׁנָ֖ה וּמְאַ֣ת שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־חֲנֽוֹךְ׃
+Hebrew Translation: and Jared lived 162 years and he fathered Enoch.
 Notes:
 -
 
 Genesis.5.19
-English:
-Greek:
-Greek Translation:
-Hebrew:
-Hebrew Translation:
+English: Jared lived after he fathered Enoch 800 years and had other sons and daughters.
+Greek: καὶ ἔζησεν Ιαρεδ μετὰ τὸ γεννῆσαι αὐτὸν τὸν Ενωχ ὀκτακόσια ἔτη καὶ ἐγέννησεν υἱοὺς καὶ θυγατέρας.
+Greek Translation: and Jared lived after fathering Enoch 800 years and fathered sons and daughters.
+Hebrew: וַֽיְחִי־יֶ֗רֶד אַֽחֲרֵי֙ הוֹלִיד֣וֹ אֶת־חֲנ֔וֹךְ שְׁמֹנֶ֥ה מֵא֖וֹת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃
+Hebrew Translation: and Jared lived after fathering Enoch 800 years and he fathered sons and daughters.
 Notes:
 -
 
 Genesis.5.20
-English:
-Greek:
-Greek Translation:
-Hebrew:
-Hebrew Translation:
+English: Thus all the days of Jared were 962 years, and he died.
+Greek: καὶ ἐγένοντο πᾶσαι αἱ ἡμέραι Ιαρεδ ἐννακόσια καὶ ἑξήκοντα δύο ἔτη, καὶ ἀπέθανεν.
+Greek Translation: and all the days of Jared were 962 years and he died.
+Hebrew: וַיִּֽהְיוּ֙ כָּל־יְמֵי־יֶ֔רֶד שְׁתַּ֤יִם וְשִׁשִּׁים֙ שָׁנָ֔ה וּתְשַׁ֥ע מֵא֖וֹת שָׁנָ֑ה וַיָּמֹֽת׃ פ
+Hebrew Translation: and all of the days of Jared were 962 years and he died.
 Notes:
 -
 
 Genesis.5.21
-English:
-Greek:
-Greek Translation:
-Hebrew:
-Hebrew Translation:
+English: When Enoch had lived 65 years, he fathered Methuselah.
+Greek: Καὶ ἔζησεν Ενωχ ἑκατὸν καὶ ἑξήκοντα πέντε ἔτη καὶ ἐγέννησεν τὸν Μαθουσαλα.
+Greek Translation: and Enoch lived 165 years and he fathered Methuselah.
+Hebrew: וַֽיְחִ֣י חֲנ֔וֹךְ חָמֵ֥שׁ וְשִׁשִּׁ֖ים שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־מְתוּשָֽׁלַח׃
+Hebrew Translation: and Enoch lived 65 years and he fathered Methuselah.
 Notes:
 -
 
 Genesis.5.22
-English:
-Greek:
-Greek Translation:
-Hebrew:
-Hebrew Translation:
+English: Enoch walked with God after he fathered Methuselah 300 years and had other sons and daughters.
+Greek: εὐηρέστησεν δὲ Ενωχ τῷ θεῷ μετὰ τὸ γεννῆσαι αὐτὸν τὸν Μαθουσαλα διακόσια ἔτη καὶ ἐγέννησεν υἱοὺς καὶ θυγατέρας.
+Greek Translation: Enoch pleased God after fathering Methuselah 200 years and fathered sons and daughters.
+Hebrew: וַיִּתְהַלֵּ֨ךְ חֲנ֜וֹךְ אֶת־הָֽאֱלֹהִ֗ים אַֽחֲרֵי֙ הוֹלִיד֣וֹ אֶת־מְתוּשֶׁ֔לַח שְׁלֹ֥שׁ מֵא֖וֹת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃
+Hebrew Translation: Enoch walked with God after he fathered Methuselah 300 years and fathered sons and daughters.
 Notes:
--
+- please/walk with God, dative
 
 Genesis.5.23
-English:
-Greek:
-Greek Translation:
-Hebrew:
-Hebrew Translation:
+English: Thus all the days of Enoch were 365 years.
+Greek: καὶ ἐγένοντο πᾶσαι αἱ ἡμέραι Ενωχ τριακόσια ἑξήκοντα πέντε ἔτη.
+Greek Translation: and all the days of Enoch were 365 years.
+Hebrew: וַיְהִ֖י כָּל־יְמֵ֣י חֲנ֑וֹךְ חָמֵ֤שׁ וְשִׁשִּׁים֙ שָׁנָ֔ה וּשְׁלֹ֥שׁ מֵא֖וֹת שָׁנָֽה׃
+Hebrew Translation: and all the days of Enoch were 365 years.
 Notes:
 -
 
 Genesis.5.24
-English:
-Greek:
-Greek Translation:
-Hebrew:
-Hebrew Translation:
+English: Enoch walked with God, and he was not, for God took him.
+Greek: καὶ εὐηρέστησεν Ενωχ τῷ θεῷ καὶ οὐχ ηὑρίσκετο, ὅτι μετέθηκεν αὐτὸν ὁ θεός.
+Greek Translation: and Enoch pleased God and he was not found because God took him.
+Hebrew: וַיִּתְהַלֵּ֥ךְ חֲנ֖וֹךְ אֶת־הָֽאֱלֹהִ֑ים וְאֵינֶ֕נּוּ כִּֽי־לָקַ֥ח אֹת֖וֹ אֱלֹהִֽים׃ פ
+Hebrew Translation: and Enoch walked with God and he was not because God took him.
 Notes:
 -
 
 Genesis.5.25
-English:
-Greek:
-Greek Translation:
-Hebrew:
-Hebrew Translation:
+English: When Methuselah had lived 187 years, he fathered Lamech.
+Greek: Καὶ ἔζησεν Μαθουσαλα ἑκατὸν καὶ ἑξήκοντα ἑπτὰ ἔτη καὶ ἐγέννησεν τὸν Λαμεχ.
+Greek Translation: and Methuselah lived 167 years and he fathered Lamech.
+Hebrew: וַיְחִ֣י מְתוּשֶׁ֔לַח שֶׁ֧בַע וּשְׁמֹנִ֛ים שָׁנָ֖ה וּמְאַ֣ת שָׁנָ֑ה וַיּ֖וֹלֶד אֶת־לָֽמֶךְ׃
+Hebrew Translation: and Methuselah lived 187 years and he fathered Lamech.
 Notes:
 -
 
 Genesis.5.26
-English:
-Greek:
-Greek Translation:
-Hebrew:
-Hebrew Translation:
+English: Methuselah lived after he fathered Lamech 782 years and had other sons and daughters.
+Greek: καὶ ἔζησεν Μαθουσαλα μετὰ τὸ γεννῆσαι αὐτὸν τὸν Λαμεχ ὀκτακόσια δύο ἔτη καὶ ἐγέννησεν υἱοὺς καὶ θυγατέρας.
+Greek Translation: and Methuselah lived after fathering Lamech 802 years and fathered sons and daughters.
+Hebrew: וַֽיְחִ֣י מְתוּשֶׁ֗לַח אַֽחֲרֵי֙ הוֹלִיד֣וֹ אֶת־לֶ֔מֶךְ שְׁתַּ֤יִם וּשְׁמוֹנִים֙ שָׁנָ֔ה וּשְׁבַ֥ע מֵא֖וֹת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃
+Hebrew Translation: and Methuselah lived after he fathered Lamech 782 years and he fathered sons and daughters.
 Notes:
 -
 
 Genesis.5.27
-English:
-Greek:
-Greek Translation:
-Hebrew:
-Hebrew Translation:
+English: Thus all the days of Methuselah were 969 years, and he died.
+Greek: καὶ ἐγένοντο πᾶσαι αἱ ἡμέραι Μαθουσαλα, ἃς ἔζησεν, ἐννακόσια καὶ ἑξήκοντα ἐννέα ἔτη, καὶ ἀπέθανεν.
+Greek Translation: and all the days of Methuselah, which he lived, [were] 969 years and he died.
+Hebrew: וַיִּהְיוּ֙ כָּל־יְמֵ֣י מְתוּשֶׁ֔לַח תֵּ֤שַׁע וְשִׁשִּׁים֙ שָׁנָ֔ה וּתְשַׁ֥ע מֵא֖וֹת שָׁנָ֑ה וַיָּמֹֽת׃ פ
+Hebrew Translation: and all the days of Methuselah were 969 years and he died.
 Notes:
 -
 
 Genesis.5.28
-English:
-Greek:
-Greek Translation:
-Hebrew:
-Hebrew Translation:
+English: When Lamech had lived 182 years, he fathered a son
+Greek: Καὶ ἔζησεν Λαμεχ ἑκατὸν ὀγδοήκοντα ὀκτὼ ἔτη καὶ ἐγέννησεν υἱὸν
+Greek Translation: and Lamech lived 188 years and fathered a son.
+Hebrew: וַֽיְחִי־לֶ֕מֶךְ שְׁתַּ֧יִם וּשְׁמֹנִ֛ים שָׁנָ֖ה וּמְאַ֣ת שָׁנָ֑ה וַיּ֖וֹלֶד בֵּֽן׃
+Hebrew Translation: and Lamech lived 183 years and he fathered a son.
 Notes:
 -
 
 Genesis.5.29
-English:
-Greek:
-Greek Translation:
-Hebrew:
-Hebrew Translation:
+English: and called his name Noah, saying, “Out of the ground that the LORD has cursed, this one shall bring us relief from our work and from the painful toil of our hands.”
+Greek: καὶ ἐπωνόμασεν τὸ ὄνομα αὐτοῦ Νωε λέγων Οὗτος διαναπαύσει ἡμᾶς ἀπὸ τῶν ἔργων ἡμῶν καὶ ἀπὸ τῶν λυπῶν τῶν χειρῶν ἡμῶν καὶ ἀπὸ τῆς γῆς, ἧς κατηράσατο κύριος ὁ θεός.
+Greek Translation: and his name was called Noah saying "This one will relieve us from our work and from the pain of our hands and from the earth which the Lord God cursed."
+Hebrew: וַיִּקְרָ֧א אֶת־שְׁמ֛וֹ נֹ֖חַ לֵאמֹ֑ר זֶה֠ יְנַחֲמֵ֤נוּ מִֽמַּעֲשֵׂ֙נוּ֙ וּמֵעִצְּב֣וֹן יָדֵ֔ינוּ מִן־הָ֣אֲדָמָ֔ה אֲשֶׁ֥ר אֵֽרְרָ֖הּ יְהוָֽה׃
+Hebrew Translation: and he called his name Noah to say "this one will relieve us from our work and from the pain of our hands and from the earth which the Lord cursed."
 Notes:
 -
 
 Genesis.5.30
-English:
-Greek:
-Greek Translation:
-Hebrew:
-Hebrew Translation:
+English: Lamech lived after he fathered Noah 595 years and had other sons and daughters.
+Greek: καὶ ἔζησεν Λαμεχ μετὰ τὸ γεννῆσαι αὐτὸν τὸν Νωε πεντακόσια καὶ ἑξήκοντα πέντε ἔτη καὶ ἐγέννησεν υἱοὺς καὶ θυγατέρας.
+Greek Translation: and Lamech lived after fathering Noah 565 years and fathered sons and daughters.
+Hebrew: וַֽיְחִי־לֶ֗מֶךְ אַֽחֲרֵי֙ הוֹלִיד֣וֹ אֶת־נֹ֔חַ חָמֵ֤שׁ וְתִשְׁעִים֙ שָׁנָ֔ה וַחֲמֵ֥שׁ מֵאֹ֖ת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃
+Hebrew Translation: and Lamech lived after fathering Noah 595 years and fathered sons and daughters.
 Notes:
 -
 
 Genesis.5.31
-English:
-Greek:
-Greek Translation:
-Hebrew:
-Hebrew Translation:
+English: Thus all the days of Lamech were 777 years, and he died.
+Greek: καὶ ἐγένοντο πᾶσαι αἱ ἡμέραι Λαμεχ ἑπτακόσια καὶ πεντήκοντα τρία ἔτη, καὶ ἀπέθανεν.
+Greek Translation: and all the days of Lamech were 753 years and he died.
+Hebrew: וַֽיְהִי֙ כָּל־יְמֵי־לֶ֔מֶךְ שֶׁ֤בַע וְשִׁבְעִים֙ שָׁנָ֔ה וּשְׁבַ֥ע מֵא֖וֹת שָׁנָ֑ה וַיָּמֹֽת׃ ס
+Hebrew Translation: and all the days of Lamech were 777 years and he died.
 Notes:
 -
 
 Genesis.5.32
-English:
-Greek:
-Greek Translation:
-Hebrew:
-Hebrew Translation:
+English: After Noah was 500 years old, Noah fathered Shem, Ham, and Japheth.
+Greek: Καὶ ἦν Νωε ἐτῶν πεντακοσίων καὶ ἐγέννησεν Νωε τρεῖς υἱούς, τὸν Σημ, τὸν Χαμ, τὸν Ιαφεθ.
+Greek Translation: and Noah was of 500 years and Noah fathered three sons, Shem, Ham and Japheth.
+Hebrew: וַֽיְהִי־נֹ֕חַ בֶּן־חֲמֵ֥שׁ מֵא֖וֹת שָׁנָ֑ה וַיּ֣וֹלֶד נֹ֔חַ אֶת־שֵׁ֖ם אֶת־חָ֥ם וְאֶת־יָֽפֶת׃
+Hebrew Translation: and Noah was the son of 500 years and fathered Shem, Ham, and Japheth.
 Notes:
--
+- why is it genitive
+- different form of how old he is, son of?
