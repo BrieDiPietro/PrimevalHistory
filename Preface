@@ -1,7 +1,10 @@
 Preface Commentary
 Version#Book.Chapter.Verse#CommentaryTopic#CommentaryNumber:Comment
-v1#Gen.1.1#NameofGod#1:
-v1#Gen.1.1#NameofMan#1:
-v1#Gen.1.1#NatureofToBe#1:
-v1#Gen.1.1#Plurals#1:
-v1#Gen.1.1#AusloosArticle#1:
+v1#Gen.1.1#NameofGod#1: God's name changes throughout the text. There are many proposed reasons, but one of the most prominent is the difference in authorship. While this makes sense in the HMT, the LXX seems to switch back and forth between names without coordination with the HMT. It also doesn't seem to pay much attention to the difference in connotation between θεός and κύριος.
+v1#Gen.1.1#NameofGod#2: elohim, θεος are translated God
+v1#Gen.1.1#NameofGod#3: YHWH, κύριος are translated the Lord
+v1#Gen.1.1#NameofMan#1: In the HMT "אָדָ֛ם" is used for both the generic term "man" as in "mankind" as well as the proper name "Adam." I have translated it as the proper name except when the text is very obviously referring to mankind. For example, Genesis.5.1 very clearly uses both the common, collective noun as well as the proper name.
+v1#Gen.1.1#NatureofToBe#1: Ancient languages tend to drop the "to be" verb. When two things are equated without a verb or a sentence lacks a verb entirely, the "to be" verb must be supplied. Hebrew does this less frequently, but Greek very consistently drops "to be." I have freely added it wherever need be.
+v1#Gen.1.1#Plurals#1: The HMT/LXX/ESV have different numbers frequently. I have changed the singulars/plurals to make sense in each of their own given contexts.
+v1#Gen.1.1#AusloosArticle#1: I have tried to remain as faithful to the original languages as possible. I went so far as to create a fairly wooden translation and then a more fluid translation. I am, however, very aware that my translation is not perfect. In fact, it may not even be all that great depending on each definition. H. Ausloos has done a wonderful job explaining the complicated intricacies of translation in their article, listed below. Please consider this a sort of introduction to how I translated.
+v1#Gen.1.1#AusloosArticle#2: “GARDEN IN EDEN” OR “PARADISE OF DELIGHT”? THE SEPTUAGINT’S RENDERING OF עדן IN THE BOOK OF GENESIS
