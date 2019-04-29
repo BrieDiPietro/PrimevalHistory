@@ -13,20 +13,20 @@ English: In the beginning, God created the heavens and the earth.
 Greek:	Ἐν ἀρχῇ ἐποίησεν ὁ θεὸς τὸν οὐρανὸν καὶ τὴν γῆν.
 Greek Translation: In the beginning God made the heaven and the earth.
 Hebrew: בְּרֵאשִׁ֖ית בָּרָ֣א אֱלֹהִ֑ים אֵ֥ת הַשָּׁמַ֖יִם וְאֵ֥ת הָאָֽרֶץ׃
-Hebrew Translation: at first God created the heavens and the earth
+Hebrew Translation: at first God created the heavens and the earth.
 Notes:
-- nuances of first phrase, what's coming into being? putting together or creating
+- nuances of first phrase, what's coming into being?
+- is God putting together or creating
 
 Genesis.1.2
 English: The earth was without form and void, and darkness was over the face of the deep. And the Spirit of God was hovering over the face of the waters.
 Greek: ἡ δὲ γῆ ἦν ἀόρατος καὶ ἀκατασκεύαστος, καὶ σκότος ἐπάνω τῆς ἀβύσσου, καὶ πνεῦμα θεοῦ ἐπεφέρετο ἐπάνω τοῦ ὕδατος.
 Greek Translation: and the earth was not visible and not formed, and darkness [was] above the abyss, and the breath of god was being brought above the water.
 Hebrew: וְהָאָ֗רֶץ הָיְתָ֥ה תֹ֨הוּ֙ וָבֹ֔הוּ וְחֹ֖שֶׁךְ עַל־פְּנֵ֣י תְה֑וֹם וְר֣וּחַ אֱלֹהִ֔ים מְרַחֶ֖פֶת עַל־פְּנֵ֥י הַמָּֽיִם
-Hebrew Translation: and the earth was formless and empty and darkness [was] over the face of the abyss and the breath of God brooding over the face of the waters
+Hebrew Translation: and the earth was formless and empty and darkness [was] over the face of the abyss and the breath of God was brooding over the face of the waters
 Notes:
 - Very liberal with the use of plurals from Greek to ESV
-- Greek is totally different
-- Piel verb מְרַחֶ֖פֶת and weird definition
+
 
 Genesis.1.3
 English: And God said, “Let there be light,” and there was light.
@@ -35,9 +35,7 @@ Greek Translation: and god said Let there be light. and light came to be.
 Hebrew:  וַיֹּ֥אמֶר אֱלֹהִ֖ים יְהִ֣י א֑וֹר וַֽיְהִי־אֽוֹר׃
 Hebrew Translation: and God said let there be light and there was light
 Notes:
-- patterning of divine names in the Greek
-      elohim, θεος: God
-      YHWH, κύριος: the Lord
+-
 
 
 Genesis.1.4
@@ -47,7 +45,7 @@ Greek Translation: and god saw the light, that [it was] good. and god separated 
 Hebrew: וַיַּ֧רְא אֱלֹהִ֛ים אֶת־הָא֖וֹר כִּי־ט֑וֹב וַיַּבְדֵּ֣ל אֱלֹהִ֔ים בֵּ֥ין הָא֖וֹר וּבֵ֥ין הַחֹֽשֶׁךְ׃
 Hebrew Translation: and God saw the light that [it was] good and God separated the light and the darkness
 Notes:
-- κὰλον can be nom or acc
+-
 
 Genesis.1.5
 English: God called the light Day, and the darkness he called Night. And there was evening and there was morning, the first day.
@@ -57,7 +55,6 @@ Hebrew: וַיִּקְרָ֨א אֱלֹהִ֤ים ׀ לָאוֹר֙ י֔וֹם �
 Hebrew Translation: and God called to the light day and to the dark [he] called night and it was evening and it was morning, day one.
 Notes:
 - ἑσπέρα is a noun πρωί is an adverb
-- ἐγένετο has creation in it; serious beef
 
 Genesis.1.6
 English: And God said, Let there be an expanse in the midst of the waters, and let it separate the waters from the waters.”
@@ -66,7 +63,7 @@ Greek Translation: and God said Let there be firmament in the middle of the wate
 Hebrew: וַיֹּ֣אמֶר אֱלֹהִ֔ים יְהִ֥י רָקִ֖יעַ בְּת֣וֹךְ הַמָּ֑יִם וִיהִ֣י מַבְדִּ֔יל בֵּ֥ין מַ֖יִם לָמָֽיִם׃
 Hebrew Translation: and God said let there be an expanse in the midst of the waters and let it there be a separation between the waters and the waters.
 Notes:
-- did it not come to be?
+- LXX has coming into being, HMT does not
 
 Genesis.1.7
 English: And God made the expanse and separated the waters that were under the expanse from the waters that were above the expanse. And it was so.
@@ -75,8 +72,7 @@ Greek Translation: and God made the firmament, and God separated between the wat
 Hebrew: וַיַּ֣עַשׂ אֱלֹהִים֮ אֶת־הָרָקִיעַ֒ וַיַּבְדֵּ֗ל בֵּ֤ין הַמַּ֙יִם֙ אֲשֶׁר֙ מִתַּ֣חַת לָרָקִ֔יעַ וּבֵ֣ין הַמַּ֔יִם אֲשֶׁ֖ר מֵעַ֣ל לָרָקִ֑יעַ וַֽיְהִי־כֵֽן׃
 Hebrew Translation: and God made the expanse and [He] separated between the waters which [were] from below the expanse and between the waters which [were] above the expanse and so it came to be.
 Notes:
-- firmament/separator in Greek
-- the Greek lacks so much parallelism
+- HMT has coming into being, LXX does not
 
 Genesis.1.8
 English: And God called the expanse Heaven. And there was evening and there was morning, the second day.
@@ -85,7 +81,7 @@ Greek Translation: and God called the firmament sky. and God saw that [it was] g
 Hebrew:  וַיִּקְרָ֧א אֱלֹהִ֛ים לָֽרָקִ֖יעַ שָׁמָ֑יִם וַֽיְהִי־עֶ֥רֶב וַֽיְהִי־בֹ֖קֶר י֥וֹם שֵׁנִֽי׃
 Hebrew Translation: and God called the expanse sky and it was evening and it was morning, the second day.
 Notes
-- did the Greeks even have the same general idea
+- LXX has God seeing that it was good, HMT doesn't
 
 Genesis.1.9
 English: And God said, “Let the waters under the heavens be gathered together into one place, and let the dry land appear.” And it was so.
@@ -94,7 +90,8 @@ Greek Translation: and God said Water under the sky be brought together into one
 Hebrew: וַיֹּ֣אמֶר אֱלֹהִ֗ים יִקָּו֨וּ הַמַּ֜יִם מִתַּ֤חַת הַשָּׁמַ֙יִם֙ אֶל־מָק֣וֹם אֶחָ֔ד וְתֵרָאֶ֖ה הַיַּבָּשָׁ֑ה וַֽיְהִי־כֵֽן
 Hebrew Translation: and God said let the waters from under the heavens come together into one place and let the dry land appear and so it came to be.
 Notes:
-- awkward pulling the water together in Greek
+- awkward grammar pulling the water together in Greek
+- LXX restates the action after saying that it came to be
 
 Genesis.1.10
 English: God called the dry land Earth, and the waters that were gathered together he called Seas. And God saw that it was good.
@@ -103,8 +100,7 @@ Greek Translation: and God called the land earth and the groups of water [He] ca
 Hebrew: וַיִּקְרָ֨א אֱלֹהִ֤ים ׀ לַיַּבָּשָׁה֙ אֶ֔רֶץ וּלְמִקְוֵ֥ה הַמַּ֖יִם קָרָ֣א יַמִּ֑ים וַיַּ֥רְא אֱלֹהִ֖ים כִּי־טֽוֹב׃
 Hebrew Translation: and God called the dry land earth and the gathering of the waters [He] called seas. and God saw that [it was] good.
 Notes:
-- lamed: with the respect to
-- gathering of waters is the ritual bath
+-
 
 Genesis.1.11
 English: And God said, “Let the earth sprout vegetation, plants yielding seed, and fruit trees bearing fruit in which is their seed, each according to its kind, on the earth.” And it was so.
@@ -122,7 +118,7 @@ Greek Translation: and the earth brought forth pastures of grass, sowing seed ac
 Hebrew:וַתּוֹצֵ֨א הָאָ֜רֶץ דֶּ֠שֶׁא עֵ֣שֶׂב מַזְרִ֤יעַ זֶ֙רַע֙ לְמִינֵ֔הוּ וְעֵ֧ץ עֹֽשֶׂה־פְּרִ֛י אֲשֶׁ֥ר זַרְעוֹ־ב֖וֹ לְמִינֵ֑הוּ וַיַּ֥רְא אֱלֹהִ֖ים כִּי־טֽוֹב׃
 Hebrew Translation: and the earth brought forth plants yielding seed and fruit trees yielding seed of every type on the earth. and God saw it [was] good
 Notes:
-- simplicity of Hebrew at the end
+- LXX has a hard time describing the plants
 
 Genesis.1.13
 English: And there was evening and there was morning, the third day.
@@ -157,8 +153,7 @@ Greek Translation: and God made both the lights great, the great light in the be
 Hebrew:  וַיַּ֣עַשׂ אֱלֹהִ֔ים אֶת־שְׁנֵ֥י הַמְּאֹרֹ֖ת הַגְּדֹלִ֑ים אֶת־הַמָּא֤וֹר הַגָּדֹל֙ לְמֶמְשֶׁ֣לֶת הַיּ֔וֹם וְאֶת־הַמָּא֤וֹר הַקָּטֹן֙ לְמֶמְשֶׁ֣לֶת הַלַּ֔יְלָה וְאֵ֖ת הַכּוֹכָבִֽים׃
 Hebrew Translation: and God made both of the great lights, the great light for ruling the day and the little light for ruling the night- and the stars
 Notes:
-- strong disjunctive paired with DO marker?
-- weird possession of the stars
+-
 
 Genesis.1.17
 English: And God set them in the expanse of the heavens to give light on the earth
@@ -194,8 +189,7 @@ Greek Translation: and God said Let the water bring out living souls and flying 
 Hebrew: וַיֹּ֣אמֶר אֱלֹהִ֔ים יִשְׁרְצ֣וּ הַמַּ֔יִם שֶׁ֖רֶץ נֶ֣פֶשׁ חַיָּ֑ה וְעוֹף֙ יְעוֹפֵ֣ף עַל־הָאָ֔רֶץ עַל־פְּנֵ֖י רְקִ֥יעַ הַשָּׁמָֽיִם׃
 Hebrew Translation: and God said let the waters team with the swarms of living creatures and let the birds fly above the earth, across the expanse of the heavens.
 Notes:
-- awkward construction all around
-- it came to be in Greek
+- LXX has coming into being
 
 Genesis.1.21
 English: So God created the great sea creatures and every living creature that moves, with which the waters swarm, according to their kinds, and every winged bird according to its kind. And God saw that it was good.
@@ -207,7 +201,7 @@ Notes:
 -
 
 Genesis.1.22
-English: And God blessed them, saying, n“Be fruitful and multiply and fill the waters in the seas, and let birds multiply on the earth.”
+English: And God blessed them, saying, “Be fruitful and multiply and fill the waters in the seas, and let birds multiply on the earth.”
 Greek: καὶ ηὐλόγησεν αὐτὰ ὁ θεὸς λέγων Αὐξάνεσθε καὶ πληθύνεσθε καὶ πληρώσατε τὰ ὕδατα ἐν ταῖς θαλάσσαις, καὶ τὰ πετεινὰ πληθυνέσθωσαν ἐπὶ τῆς γῆς.
 Greek Translation: and God blessed them saying Increase and multiply and fill the waters in the seas, and let the birds multiply on the earth.
 Hebrew: וַיְבָ֧רֶךְ אֹתָ֛ם אֱלֹהִ֖ים לֵאמֹ֑ר פְּר֣וּ וּרְב֗וּ וּמִלְא֤וּ אֶת־הַמַּ֙יִם֙ בַּיַּמִּ֔ים וְהָע֖וֹף יִ֥רֶב בָּאָֽרֶץ׃
@@ -231,8 +225,7 @@ Greek Translation: and God said Let the earth bring out living creatures accordi
 Hebrew: וַיֹּ֣אמֶר אֱלֹהִ֗ים תּוֹצֵ֨א הָאָ֜רֶץ נֶ֤פֶשׁ חַיָּה֙ לְמִינָ֔הּ בְּהֵמָ֥ה וָרֶ֛מֶשׂ וְחַֽיְתוֹ־אֶ֖רֶץ לְמִינָ֑הּ וַֽיְהִי־כֵֽן׃
 Hebrew Translation: and God said Let the earth bring out living things [according] to kind, livestock and creeping things and living things of the earth [according] to kind. and it was so.
 Notes:
-- ἑρπετὰ better meaning
-- difference in Greek lists
+-
 
 
 Genesis.1.25
@@ -247,14 +240,11 @@ Notes:
 Genesis.1.26
 English: Then God said, “Let us make man in our image, after our likeness. And let them have dominion over the fish of the sea and over the birds of the heavens and over the livestock and over all the earth and over every creeping thing that creeps on the earth.”
 Greek: καὶ εἶπεν ὁ θεός Ποιήσωμεν ἄνθρωπον κατ᾿ εἰκόνα ἡμετέραν καὶ καθ᾿ ὁμοίωσιν, καὶ ἀρχέτωσαν τῶν ἰχθύων τῆς θαλάσσης καὶ τῶν πετεινῶν τοῦ οὐρανοῦ καὶ τῶν κτηνῶν καὶ πάσης τῆς γῆς καὶ πάντων τῶν ἑρπετῶν τῶν ἑρπόντων ἐπὶ τῆς γῆς.
-Greek Translation: and God said We could make man according to our image and according to [our] likeness, and let them rule over the fish of the sea and the birds of the heavens and the livestock and all of the earth and all of the creeping animals on the earth.
+Greek Translation: and God said Let us make man according to our image and according to [our] likeness, and let them rule over the fish of the sea and the birds of the heavens and the livestock and all of the earth and all of the creeping animals on the earth.
 Hebrew:וַיֹּ֣אמֶר אֱלֹהִ֔ים נַֽעֲשֶׂ֥ה אָדָ֛ם בְּצַלְמֵ֖נוּ כִּדְמוּתֵ֑נוּ וְיִרְדּוּ֩ בִדְגַ֨ת הַיָּ֜ם וּבְע֣וֹף הַשָּׁמַ֗יִם וּבַבְּהֵמָה֙ וּבְכָל־הָאָ֔רֶץ וּבְכָל־הָרֶ֖מֶשׂ הָֽרֹמֵ֥שׂ עַל־הָאָֽרֶץ׃
 Hebrew Translation: and God said Let us make human kind in our image according to our likeness and let them rule the fish of the sea and the bird of the heavens and the domestic animals and all of the earth and all of the creeping things that creep of the earth.
 Notes:
-- subjunctive ποιέω
-- pattern?
-- image isn't definite
-- many sources insert the wild animals
+- God's image isn't definite LXX
 
 Genesis.1.27
 English: So God created man in his own image,	in the image of God he created him; male and female he created them.
@@ -263,10 +253,10 @@ Greek Translation: and God made man, according to an image of God He made him, m
 Hebrew:וַיִּבְרָ֨א אֱלֹהִ֤ים ׀ אֶת־הָֽאָדָם֙ בְּצַלְמ֔וֹ בְּצֶ֥לֶם אֱלֹהִ֖ים בָּרָ֣א אֹת֑וֹ זָכָ֥ר וּנְקֵבָ֖ה בָּרָ֥א אֹתָֽם׃
 Hebrew Translation: and God created man, in His image. and in the image of God He created him [man]. male and female He created them
 Notes:
-- image isn't definite!
+- God's image isn't definite LXX
 - noun vs adj of man and woman
-- different creation verb
-- awkward ending construction; accents solve image issue?
+- switch creation verb LXX
+
 
 Genesis.1.28
 English: And God blessed them. And God said to them, “Be fruitful and multiply and fill the earth and subdue it, and have dominion over the fish of the sea and over the birds of the heavens and over every living thing that moves on the earth.”
@@ -275,8 +265,7 @@ Greek Translation: and God blessed them saying Increase and multiply and fill th
 Hebrew:וַיְבָ֣רֶךְ אֹתָם֮ אֱלֹהִים֒ וַיֹּ֨אמֶר לָהֶ֜ם אֱלֹהִ֗ים פְּר֥וּ וּרְב֛וּ וּמִלְא֥וּ אֶת־הָאָ֖רֶץ וְכִבְשֻׁ֑הָ וּרְד֞וּ בִּדְגַ֤ת הַיָּם֙ וּבְע֣וֹף הַשָּׁמַ֔יִם וּבְכָל־חַיָּ֖ה הָֽרֹמֶ֥שֶׂת עַל־הָאָֽרֶץ׃
 Hebrew Translation: and God blessed them and God said to them Be fruitful and multiply and fill the earth and subdue it, and rule over the fish of the sea and over the bird[s] of the heavens and over all of the creeping things on the earth.
 Notes:
-- how should we handle quotes
-- the priestly writer is slipping up (compare to 26)
+- the priestly writer is slightly different in list (compare to 26)
 
 
 Genesis.1.29
@@ -329,11 +318,11 @@ Notes:
 Genesis.2.3
 English: So God blessed the seventh day and made it holy, because on it God rested from all his work that he had done in creation.
 Greek: καὶ ηὐλόγησεν ὁ θεὸς τὴν ἡμέραν τὴν ἑβδόμην καὶ ἡγίασεν αὐτήν, ὅτι ἐν αὐτῇ κατέπαυσεν ἀπὸ πάντων τῶν ἔργων αὐτοῦ, ὧν ἤρξατο ὁ θεὸς ποιῆσαι.
-Greek Translation: and God blessed the seventh day and made it holy, because on it He rested from all of his works, which God had begun to make.
+Greek Translation: and God blessed the seventh day and made it holy, because on it He rested from all of His works, which God had begun to make.
 Hebrew: וַיְבָ֤רֶךְ אֱלֹהִים֙ אֶת־י֣וֹם הַשְּׁבִיעִ֔י וַיְקַדֵּ֖שׁ אֹת֑וֹ כִּ֣י ב֤וֹ שָׁבַת֙ מִכָּל־מְלַאכְתּ֔וֹ אֲשֶׁר־בָּרָ֥א אֱלֹהִ֖ים לַעֲשֽׂוֹת׃
 Hebrew Translation: and God blessed the seventh day and consecrated it because on it He rested from all of His work which God made in creating.
 Notes:
-- weird ending verbs
+- God is just beginning creation in LXX
 
 Genesis.2.4
 English: These are the generations of the heavens and the earth when they were created, in the day that the LORD God made the earth and the heavens.
@@ -351,7 +340,7 @@ Greek Translation: and before they existed [God made] every green thing of the f
 Hebrew:  וְכֹ֣ל ׀ שִׂ֣יחַ הַשָּׂדֶ֗ה טֶ֚רֶם יִֽהְיֶ֣ה בָאָ֔רֶץ וְכָל־עֵ֥שֶׂב הַשָּׂדֶ֖ה טֶ֣רֶם יִצְמָ֑ח כִּי֩ לֹ֨א הִמְטִ֜יר יְהוָ֤ה אֱלֹהִים֙ עַל־הָאָ֔רֶץ וְאָדָ֣ם אַ֔יִן לַֽעֲבֹ֖ד אֶת־הָֽאֲדָמָֽה׃
 Hebrew Translation: and every bush of the field before it was in the earth and every plant of the field before it grew because the Lord God did not make it rain over the earth and there was no man to work the land.
 Notes:
-- articular infinitives
+- articular infinitives used LXX, different grammar than other places
 
 Genesis.2.6
 English: and a mist was going up from the land and was watering the whole face of the ground—
@@ -369,7 +358,6 @@ Greek Translation: and God formed man of dust from the earth and breathed into h
 Hebrew: וַיִּיצֶר֩ יְהוָ֨ה אֱלֹהִ֜ים אֶת־הָֽאָדָ֗ם עָפָר֙ מִן־הָ֣אֲדָמָ֔ה וַיִּפַּ֥ח בְּאַפָּ֖יו נִשְׁמַ֣ת חַיִּ֑ים וַֽיְהִ֥י הָֽאָדָ֖ם לְנֶ֥פֶשׁ חַיָּֽה׃
 Hebrew Translation: and the Lord God made man [with] dust from the ground and He breathed in the nostrils the breath of life and the man was a living creature.
 Notes:
-- absolute man and dust
 - nostrils/face
 
 Genesis.2.8
@@ -389,7 +377,7 @@ Greek Translation: and God sprung up every tree pleasant to sight and fine for f
 Hebrew: וַיַּצְמַ֞ח יְהוָ֤ה אֱלֹהִים֙ מִן־הָ֣אֲדָמָ֔ה כָּל־עֵ֛ץ נֶחְמָ֥ד לְמַרְאֶ֖ה וְט֣וֹב לְמַאֲכָ֑ל וְעֵ֤ץ הַֽחַיִּים֙ בְּת֣וֹךְ הַגָּ֔ן וְעֵ֕ץ הַדַּ֖עַת ט֥וֹב וָרָֽע׃
 Hebrew Translation: and the Lord God sprouted up from the earth every tree delightful to see and good for food and the tree of life in the midst of the garden and the tree of the knowledge of good and evil.
 Notes:
-- weird syntax with good and evil, conjunctive/disjunctive accents
+-
 
 Genesis.2.10
 English: A river flowed out of Eden to water the garden, and there it divided and became four rivers.
@@ -412,20 +400,21 @@ Notes:
 Genesis.2.12
 English: And the gold of that land is good; bdellium and onyx stone are there.
 Greek: τὸ δὲ χρυσίον τῆς γῆς ἐκείνης καλόν· καὶ ἐκεῖ ἐστιν ὁ ἄνθραξ καὶ ὁ λίθος ὁ πράσινος.
-Greek Translation: the gold of that land [is] good, and the coal is there and the stone and the light green thing (bdellium).
+Greek Translation: the gold of that land [is] good, and the coal is there and the stone and the light green thing [bdellium].
 Hebrew: וּֽזֲהַ֛ב הָאָ֥רֶץ הַהִ֖וא ט֑וֹב שָׁ֥ם הַבְּדֹ֖לַח וְאֶ֥בֶן הַשֹּֽׁהַם׃
 Hebrew Translation: and the gold of that land [is] good, there [is] bdellium and stone and onyx.
 Notes:
-- light green thing
+-
 
 Genesis.2.13
 English: The name of the second river is the Gihon. It is the one that flowed around the whole land of Cush.
 Greek: καὶ ὄνομα τῷ ποταμῷ τῷ δευτέρῳ Γηων· οὗτος ὁ κυκλῶν πᾶσαν τὴν γῆν Αἰθιοπίας.
-Greek Translation: and the name of the second river [is] Gihon. This one is surrounding all the land of Ethiopia(Cush).
+Greek Translation: and the name of the second river [is] Gihon. This one is surrounding all the land of Ethiopia [Cush].
 Hebrew: וְשֵֽׁם־הַנָּהָ֥ר הַשֵּׁנִ֖י גִּיח֑וֹן ה֣וּא הַסּוֹבֵ֔ב אֵ֖ת כָּל־אֶ֥רֶץ כּֽוּשׁ׃
 Hebrew Translation: and the name of the second river [is] Gihon. It surrounded all the land of Cush.
 Notes:
 -
+
 Genesis.2.14
 English: And the name of the third river is the Tigris, which flows east of Assyria. And the fourth river is the Euphrates.
 Greek: καὶ ὁ ποταμὸς ὁ τρίτος Τίγρις· οὗτος ὁ πορευόμενος κατέναντι Ἀσσυρίων. ὁ δὲ ποταμὸς ὁ τέταρτος, οὗτος Εὐφράτης.
@@ -433,7 +422,7 @@ Greek Translation: and the third river [is] Tigris. This one is going near Assyr
 Hebrew: וְשֵׁ֨ם הַנָּהָ֤ר הַשְּׁלִישִׁי֙ חִדֶּ֔קֶל ה֥וּא הַֽהֹלֵ֖ךְ קִדְמַ֣ת אַשּׁ֑וּר וְהַנָּהָ֥ר הָֽרְבִיעִ֖י ה֥וּא פְרָֽת׃
 Hebrew Translation: and the name of the third river [is] Tigris. It goes east of Assyria. and the fourth river, it [is] Euphrates.
 Notes:
-- totally different set up in both languages
+-
 
 Genesis.2.15
 English: The LORD God took the man and put him in the garden of Eden to work it and keep it.
@@ -469,16 +458,16 @@ Greek Translation: and the Lord God said [It is] not good [for] man to be alone,
 Hebrew:וַיֹּ֙אמֶר֙ יְהוָ֣ה אֱלֹהִ֔ים לֹא־ט֛וֹב הֱי֥וֹת הָֽאָדָ֖ם לְבַדּ֑וֹ אֶֽעֱשֶׂהּ־לּ֥וֹ עֵ֖זֶר כְּנֶגְדּֽוֹ׃
 Hebrew Translation: and the Lord God said [it is] not good [for] man to be alone. I will make for him a helper as his partner.
 Notes:
-- subjunctive in Greek?
+-
 
 Genesis.2.19
 English: Now out of the ground the LORD God had formed every beast of the field and every bird of the heavens and brought them to the man to see what he would call them. And whatever the man called every living creature, that was its name.
 Greek: καὶ ἔπλασεν ὁ θεὸς ἔτι ἐκ τῆς γῆς πάντα τὰ θηρία τοῦ ἀγροῦ καὶ πάντα τὰ πετεινὰ τοῦ οὐρανοῦ καὶ ἤγαγεν αὐτὰ πρὸς τὸν Αδαμ ἰδεῖν, τί καλέσει αὐτά, καὶ πᾶν, ὃ ἐὰν ἐκάλεσεν αὐτὸ Αδαμ ψυχὴν ζῶσαν, τοῦτο ὄνομα αὐτοῦ.
-Greek Translation: and still God formed out of the earth all the wild animals of the field and all the birds of the sky and He brought them toward Adam to see, what will you call them, and each which Adam called
+Greek Translation: and still God formed out of the earth all the wild animals of the field and all the birds of the sky and He brought them toward Adam to see, what will you call them, and each which Adam called, his name would be
 Hebrew:וַיִּצֶר֩ יְהוָ֨ה אֱלֹהִ֜ים מִן־הָֽאֲדָמָ֗ה כָּל־חַיַּ֤ת הַשָּׂדֶה֙ וְאֵת֙ כָּל־ע֣וֹף הַשָּׁמַ֔יִם וַיָּבֵא֙ אֶל־הָ֣אָדָ֔ם לִרְא֖וֹת מַה־יִּקְרָא־ל֑וֹ וְכֹל֩ אֲשֶׁ֨ר יִקְרָא־ל֧וֹ הָֽאָדָ֛ם נֶ֥פֶשׁ חַיָּ֖ה ה֥וּא שְׁמֽוֹ׃
 Hebrew Translation: and the Lord God formed from the ground every living creature of the field and every bird of the sky and He brought [them] to the man to see what he would call them and whatever the man would call the living creatures [that will be] its name.
 Notes:
-- weird greek
+-
 
 Genesis.2.20
 English: The man gave names to all livestock and to the birds of the heavens and to every beast of the field. But for Adam there was not found a helper fit for him.
@@ -487,7 +476,7 @@ Greek Translation and Adam called the names to every animal and to all the birds
 Hebrew: וַיִּקְרָ֨א הָֽאָדָ֜ם שֵׁמ֗וֹת לְכָל־הַבְּהֵמָה֙ וּלְע֣וֹף הַשָּׁמַ֔יִם וּלְכֹ֖ל חַיַּ֣ת הַשָּׂדֶ֑ה וּלְאָדָ֕ם לֹֽא־מָצָ֥א עֵ֖זֶר כְּנֶגְדּֽוֹ׃
 Hebrew Translation: and the man spoke the names for every domestic animal and for the birds of the sky and for every beast of the field but for the man a helper was not found as his partner.
 Notes
-- in front of?
+-
 
 Genesis.2.21
 English: So the LORD God caused a deep sleep to fall upon the man, and while he slept took one of his ribs and closed up its place with flesh.
@@ -496,7 +485,7 @@ Greek Translation: and God threw a distraction at Adam, and He took one of the s
 Hebrew:וַיַּפֵּל֩ יְהוָ֨ה אֱלֹהִ֧ים ׀ תַּרְדֵּמָ֛ה עַל־הָאָדָ֖ם וַיִּישָׁ֑ן וַיִּקַּ֗ח אַחַת֙ מִצַּלְעֹתָ֔יו וַיִּסְגֹּ֥ר בָּשָׂ֖ר תַּחְתֶּֽנָּה׃
 Hebrew Translation: and the Lord God made sleep fall upon the man and He took one of his ribs from him and He closed flesh around it.
 Notes:
-- ask Eunice about the weird ending
+-
 
 Genesis.2.22
 English: And the rib that the LORD God had taken from the man he made into a woman and brought her to the man.
@@ -506,6 +495,7 @@ Hebrew: וַיִּבֶן֩ יְהוָ֨ה אֱלֹהִ֧ים ׀ אֶֽת־הַצּ
 Hebrew Translation: and the Lord God made the rib which was taken from the man into woman and He brought her to the man.
 Notes:
 -
+
 Genesis.2.23
 English: then the man said, “This at last is bone of my bones and flesh of my flesh; she shall be called Woman, because she was taken out of Man.”
 Greek: καὶ εἶπεν Αδαμ Τοῦτο νῦν ὀστοῦν ἐκ τῶν ὀστέων μου καὶ σὰρξ ἐκ τῆς σαρκός μου· αὕτη κληθήσεται γυνή, ὅτι ἐκ τοῦ ἀνδρὸς αὐτῆς ἐλήμφθη αὕτη.
@@ -531,7 +521,7 @@ Greek Translation: and both were naked, when Adam and his wife were not ashamed.
 Hebrew:וַיִּֽהְי֤וּ שְׁנֵיהֶם֙ עֲרוּמִּ֔ים הָֽאָדָ֖ם וְאִשְׁתּ֑וֹ וְלֹ֖א יִתְבֹּשָֽׁשׁוּ׃
 Hebrew Translation: and they were both naked, the man and his wife were not ashamed.
 Notes:
-- switching impf and perf
+-
 
 Genesis.3.1
 English: Now the serpent was more crafty than any other beast of the field that the LORD God had made. He said to the woman, “Did God actually say, ‘You shall not eat of any tree in the garden’?”
@@ -540,7 +530,7 @@ Greek Translation: The snake was the most prudent of all of the wild animals in 
 Hebrew: וְהַנָּחָשׁ֙ הָיָ֣ה עָר֔וּם מִכֹּל֙ חַיַּ֣ת הַשָּׂדֶ֔ה אֲשֶׁ֥ר עָשָׂ֖ה יְהוָ֣ה אֱלֹהִ֑ים וַיֹּ֙אמֶר֙ אֶל־הָ֣אִשָּׁ֔ה אַ֚ף כִּֽי־אָמַ֣ר אֱלֹהִ֔ים לֹ֣א תֹֽאכְל֔וּ מִכֹּ֖ל עֵ֥ץ הַגָּֽן׃
 Hebrew Translation: and the serpent was more crafty than every animal of the field which the Lord God made, and he said to the woman, "Did God really say 'You must not eat from any tree in the garden'?""
 Notes:
-- aorist subjunctive verb of eating, future like revelations? pair with future next verse
+-
 
 Genesis.3.2
 English: And the woman said to the serpent, “We may eat of the fruit of the trees in the garden,
@@ -558,7 +548,7 @@ Greek Translation: but from the fruit of the tree which is in the middle of the 
 Hebrew:וּמִפְּרִ֣י הָעֵץ֮ אֲשֶׁ֣ר בְּתוֹךְ־הַגָּן֒ אָמַ֣ר אֱלֹהִ֗ים לֹ֤א תֹֽאכְלוּ֙ מִמֶּ֔נּוּ וְלֹ֥א תִגְּע֖וּ בּ֑וֹ פֶּן־תְּמֻתֽוּן׃
 Hebrew Translation: but from the fruit of the tree which is in the middle of the garden," God said, "you must not eat from it and not touch it lest you will die."
 Notes:
-- subjunctive switching
+-
 
 Genesis.3.4
 English: But the serpent said to the woman, “You will not surely die.
@@ -594,7 +584,7 @@ Greek Translation: and both of their eyes were opened, and they knew that they w
 Hebrew:וַתִּפָּקַ֙חְנָה֙ עֵינֵ֣י שְׁנֵיהֶ֔ם וַיֵּ֣דְע֔וּ כִּ֥י עֵֽירֻמִּ֖ם הֵ֑ם וַֽיִּתְפְּרוּ֙ עֲלֵ֣ה תְאֵנָ֔ה וַיַּעֲשׂ֥וּ לָהֶ֖ם חֲגֹרֹֽת׃
 Hebrew Translation: and both of their eyes were opened and they knew that they [were] naked, and they sewed the leaves of a fig tree and made coverings for themselves.
 Notes:
-- naked is imperfect
+-
 
 Genesis.3.8
 English: And they heard the sound of the LORD God walking in the garden in the cool of the day, and the man and his wife hid themselves from the presence of the LORD God among the trees of the garden.
@@ -603,7 +593,7 @@ Greek Translation: and they heard the sound of the Lord God walking in the after
 Hebrew:וַֽיִּשְׁמְע֞וּ אֶת־ק֨וֹל יְהוָ֧ה אֱלֹהִ֛ים מִתְהַלֵּ֥ךְ בַּגָּ֖ן לְר֣וּחַ הַיּ֑וֹם וַיִּתְחַבֵּ֨א הָֽאָדָ֜ם וְאִשְׁתּ֗וֹ מִפְּנֵי֙ יְהוָ֣ה אֱלֹהִ֔ים בְּת֖וֹךְ עֵ֥ץ הַגָּֽן׃
 Hebrew Translation: and they heard the sound of the Lord God walking back and forth in the breeze of the afternoon and the man and the woman hid from the presence of the Lord God in the middle of the tree[s] of the garden.
 Notes:
-- same word as spirit
+-
 
 Genesis.3.9
 English: But the LORD God called to the man and said to him, “Where are you?”
@@ -621,7 +611,7 @@ Greek Translation: and he said to him "I heard the sound of you walking in the g
 Hebrew: וַיֹּ֕אמֶר אֶת־קֹלְךָ֥ שָׁמַ֖עְתִּי בַּגָּ֑ן וָאִירָ֛א כִּֽי־עֵירֹ֥ם אָנֹ֖כִי וָאֵחָבֵֽא׃
 Hebrew Translation: and he said "I heard your sound in the garden and I was afraid because [I was] naked and I hid myself."
 Notes:
-- why passive
+-
 
 Genesis.3.11
 English: He said, “Who told you that you were naked? Have you eaten of the tree of which I commanded you not to eat?”
@@ -630,7 +620,7 @@ Greek Translation: and He said to me, "Who told you that you are naked? not from
 Hebrew: וַיֹּ֕אמֶר מִ֚י הִגִּ֣יד לְךָ֔ כִּ֥י עֵירֹ֖ם אָ֑תָּה הֲמִן־הָעֵ֗ץ אֲשֶׁ֧ר צִוִּיתִ֛יךָ לְבִלְתִּ֥י אֲכָל־מִמֶּ֖נּוּ אָכָֽלְתָּ׃
 Hebrew Translation: and He said "who has told you that [you are] naked? from the tree which I commanded you to not eat from it did you eat?"
 Notes:
-- you is singular
+-
 
 Genesis.3.12
 English: The man said, “The woman whom you gave to be with me, she gave me fruit of the tree, and I ate.”
@@ -666,7 +656,7 @@ Greek Translation: and I will put hatred in between you and the woman and betwee
 Hebrew: וְאֵיבָ֣ה ׀ אָשִׁ֗ית בֵּֽינְךָ֙ וּבֵ֣ין הָֽאִשָּׁ֔ה וּבֵ֥ין זַרְעֲךָ֖ וּבֵ֣ין זַרְעָ֑הּ הוּ֚א יְשׁוּפְךָ֣ רֹ֔אשׁ וְאַתָּ֖ה תְּשׁוּפֶ֥נּוּ עָקֵֽב׃
 Hebrew Translation: and I will put enmity between you and the woman and between your offspring and her offspring, he will bruise your head, and you will bruise his heel."
 Notes:
-- guard vs bruise
+-
 
 Genesis.3.16
 English: To the woman he said, “I will surely multiply your pain in childbearing; in pain you shall bring forth children. Your desire shall be contrary to your husband, but he shall rule over you.”
@@ -675,7 +665,7 @@ Greek Translation: and He said to the woman "I will surely multiply your pain, i
 Hebrew: אֶֽל־הָאִשָּׁ֣ה אָמַ֗ר הַרְבָּ֤ה אַרְבֶּה֙ עִצְּבוֹנֵ֣ךְ וְהֵֽרֹנֵ֔ךְ בְּעֶ֖צֶב תֵּֽלְדִ֣י בָנִ֑ים וְאֶל־אִישֵׁךְ֙ תְּשׁ֣וּקָתֵ֔ךְ וְה֖וּא יִמְשָׁל־בָּֽךְ׃ ס
 Hebrew Translation: and to the woman He said "I will greatly multiply the pain of your childbearing, you will bring forth children in pain, and unto your husband will be your desire, and he will rule over you."
 Notes:
-- desire/diversion meaning
+-
 
 Genesis.3.17
 English: And to Adam he said, “Because you have listened to the voice of your wife and have eaten of the tree of which I commanded you,	‘You shall not eat of it,’ cursed is the ground because of you; in pain you shall eat of it all the days of your life
@@ -684,7 +674,7 @@ Greek Translation: and to Adam He said "because you heard the sound of the woman
 Hebrew:וּלְאָדָ֣ם אָמַ֗ר כִּֽי־שָׁמַעְתָּ֮ לְק֣וֹל אִשְׁתֶּךָ֒ וַתֹּ֙אכַל֙ מִן־הָעֵ֔ץ אֲשֶׁ֤ר צִוִּיתִ֙יךָ֙ לֵאמֹ֔ר לֹ֥א תֹאכַ֖ל מִמֶּ֑נּוּ אֲרוּרָ֤ה הָֽאֲדָמָה֙ בַּֽעֲבוּרֶ֔ךָ בְּעִצָּבוֹן֙ תֹּֽאכֲלֶ֔נָּה כֹּ֖ל יְמֵ֥י חַיֶּֽיךָ׃
 Hebrew Translation: and to Adam He said "because you listened to the voice of your wife and have eaten from the tree which I commanded you saying 'you shall not eat from it' the ground is cursed because of you and you will eat by means of pain all of the days of your life
 Notes:
--
+- HMT repeats quote
 
 Genesis.3.18
 English: thorns and thistles it shall bring forth for you; and you shall eat the plants of the field.
@@ -702,7 +692,7 @@ Greek Translation: by the sweat of your face you will eat your bread until you r
 Hebrew: בְּזֵעַ֤ת אַפֶּ֙יךָ֙ תֹּ֣אכַל לֶ֔חֶם עַ֤ד שֽׁוּבְךָ֙ אֶל־הָ֣אֲדָמָ֔ה כִּ֥י מִמֶּ֖נָּה לֻקָּ֑חְתָּ כִּֽי־עָפָ֣ר אַ֔תָּה וְאֶל־עָפָ֖ר תָּשֽׁוּב׃
 Hebrew Translation: by the sweat of your face you will eat bread until you are to return to the earth that you were taken from it, because you are dust and you will return to dust."
 Notes:
-- nostrils, dual
+- by the sweat of your nostrils, dual
 
 Genesis.3.20
 English: he man called his wife’s name Eve, because she was the mother of all living.
@@ -711,7 +701,7 @@ Greek Translation: and Adam called the name of his wife Zoe, because she [was] m
 Hebrew:וַיִּקְרָ֧א הָֽאָדָ֛ם שֵׁ֥ם אִשְׁתּ֖וֹ חַוָּ֑ה כִּ֛י הִ֥וא הָֽיְתָ֖ה אֵ֥ם כָּל־חָֽי׃
 Hebrew Translation: and the man called the name of his wife Eve because she was mother of all of the living.
 Notes:
--
+- different name of his wife
 
 Genesis.3.21
 English: And the LORD God made for Adam and for his wife garments of skins and clothed them.
@@ -729,7 +719,7 @@ Greek Translation: and God said "Look, Adam has become like one out of us knowin
 Hebrew:וַיֹּ֣אמֶר ׀ יְהוָ֣ה אֱלֹהִ֗ים הֵ֤ן הָֽאָדָם֙ הָיָה֙ כְּאַחַ֣ד מִמֶּ֔נּוּ לָדַ֖עַת ט֣וֹב וָרָ֑ע וְעַתָּ֣ה ׀ פֶּן־יִשְׁלַ֣ח יָד֗וֹ וְלָקַח֙ גַּ֚ם מֵעֵ֣ץ הַֽחַיִּ֔ים וְאָכַ֖ל וָחַ֥י לְעֹלָֽם׃
 Hebrew Translation: and the Lord God said "Behold Adam has become like one of us knowing good and evil, and now lest he will reach out his hand and take from the tree of life and eat and live to forever"
 Notes:
-- subjunctive again
+-
 
 Genesis.3.23
 English: therefore the LORD God sent him out from the garden of Eden to work the ground from which he was taken.
@@ -747,8 +737,7 @@ Greek Translation: and He threw Adam out and he settled before the garden of del
 Hebrew:וַיְגָ֖רֶשׁ אֶת־הָֽאָדָ֑ם וַיַּשְׁכֵּן֩ מִקֶּ֨דֶם לְגַן־עֵ֜דֶן אֶת־הַכְּרֻבִ֗ים וְאֵ֨ת לַ֤הַט הַחֶ֙רֶב֙ הַמִּתְהַפֶּ֔כֶת לִשְׁמֹ֕ר אֶת־דֶּ֖רֶךְ עֵ֥ץ הַֽחַיִּֽים׃ ס
 Hebrew Translation: and He drove Adam out and to the east of the garden of Eden He placed Cherubim and the flaming sword which turns away to guard the path to the tree of life.
 Notes:
-- weird putting together Greek
-
+-
 
 Genesis.4.1
 English: Now Adam knew Eve his wife, and she conceived and bore Cain, saying, “I have gotten a man with the help of the LORD.”
@@ -796,7 +785,7 @@ Greek Translation: but to Cain and his sacrifices [God] did not pay attention. a
 Hebrew:וְאֶל־קַ֥יִן וְאֶל־מִנְחָת֖וֹ לֹ֣א שָׁעָ֑ה וַיִּ֤חַר לְקַ֙יִן֙ מְאֹ֔ד וַֽיִּפְּל֖וּ פָּנָֽיו׃
 Hebrew Translation: but God did not see Cain and his offerings. and Cain was very angry and his face fell.
 Notes:
--
+- did Cain fall to his face or did his face fall, see next verse
 
 
 Genesis.4.6
@@ -896,7 +885,7 @@ Greek Translation: and the Lord God said to him "Not like this, every man who ki
 Hebrew:וַיֹּ֧אמֶר ל֣וֹ יְהוָ֗ה לָכֵן֙ כָּל־הֹרֵ֣ג קַ֔יִן שִׁבְעָתַ֖יִם יֻקָּ֑ם וַיָּ֨שֶׂם יְהוָ֤ה לְקַ֙יִן֙ א֔וֹת לְבִלְתִּ֥י הַכּוֹת־אֹת֖וֹ כָּל־מֹצְאֽוֹ׃
 Hebrew Translation: and the Lord said to him "[It is] not so, every man slaying Cain will suffer vengeance seven times over" and God put a sign on Cain lest any who find him hurt him.
 Notes:
-- weird participles
+-
 
 
 Genesis.4.16
@@ -995,8 +984,8 @@ Greek Translation: Adam knew his wife Eve, and being pregnant she bore a son and
 Hebrew: וַיֵּ֨דַע אָדָ֥ם עוֹד֙ אֶת־אִשְׁתּ֔וֹ וַתֵּ֣לֶד בֵּ֔ן וַתִּקְרָ֥א אֶת־שְׁמ֖וֹ שֵׁ֑ת כִּ֣י שָֽׁת־לִ֤י אֱלֹהִים֙ זֶ֣רַע אַחֵ֔ר תַּ֣חַת הֶ֔בֶל כִּ֥י הֲרָג֖וֹ קָֽיִן׃
 Hebrew Translation: and Adam again knew his wife, she bore a son and called his name the name Seth because "God gave to me another seed in place of Abel because Cain killed him."
 Notes:
-- Eve doesn't get a name anymore
-- very different pregnancy layout
+- Eve doesn't get a name anymore in HMT
+- very different pregnancy layout than earlier chapters
 
 Genesis.4.26
 English: To Seth also a son was born, and he called his name Enosh. At that time people began to call upon the name of the LORD.
@@ -1014,7 +1003,7 @@ Greek Translation: This [is] the book of the family of man on the day God create
 Hebrew: זֶ֣ה סֵ֔פֶר תּוֹלְדֹ֖ת אָדָ֑ם בְּי֗וֹם בְּרֹ֤א אֱלֹהִים֙ אָדָ֔ם בִּדְמ֥וּת אֱלֹהִ֖ים עָשָׂ֥ה אֹתֽוֹ׃
 Hebrew Translation: This [is] the book of the descendants of Adam. On the day God created man, in the likeness of God He made him.
 Notes:
-- thematic introduction
+- thematic introduction more than anything else
 
 Genesis.5.2
 English: Male and female he created them, and he blessed them and named them Man when they were created.
@@ -1032,7 +1021,7 @@ Greek Translation: when Adam lived 230 years, he also fathered [a son] according
 Hebrew:  וַֽיְחִ֣י אָדָ֗ם שְׁלֹשִׁ֤ים וּמְאַת֙ שָׁנָ֔ה וַיּ֥וֹלֶד בִּדְמוּת֖וֹ כְּצַלְמ֑וֹ וַיִּקְרָ֥א אֶת־שְׁמ֖וֹ שֵֽׁת׃
 Hebrew Translation: When Adam lived 130 years and fathered in his likeness according to his image [a son] and he called his name Seth.
 Notes:
-- actual genealogy
+- actual genealogy begins
 
 Genesis.5.4
 English: The days of Adam after he fathered Seth were 800 years; and he had other sons and daughters.
@@ -1203,7 +1192,7 @@ Greek Translation: Enoch pleased God after fathering Methuselah 200 years and fa
 Hebrew: וַיִּתְהַלֵּ֨ךְ חֲנ֜וֹךְ אֶת־הָֽאֱלֹהִ֗ים אַֽחֲרֵי֙ הוֹלִיד֣וֹ אֶת־מְתוּשֶׁ֔לַח שְׁלֹ֥שׁ מֵא֖וֹת שָׁנָ֑ה וַיּ֥וֹלֶד בָּנִ֖ים וּבָנֽוֹת׃
 Hebrew Translation: Enoch walked with God after he fathered Methuselah 300 years and fathered sons and daughters.
 Notes:
-- please/walk with God, dative
+- please/walk with God in HMT and LXX
 
 Genesis.5.23
 English: Thus all the days of Enoch were 365 years.
@@ -1293,5 +1282,4 @@ Greek Translation: and Noah was of 500 years and Noah fathered three sons, Shem,
 Hebrew: וַֽיְהִי־נֹ֕חַ בֶּן־חֲמֵ֥שׁ מֵא֖וֹת שָׁנָ֑ה וַיּ֣וֹלֶד נֹ֔חַ אֶת־שֵׁ֖ם אֶת־חָ֥ם וְאֶת־יָֽפֶת׃
 Hebrew Translation: and Noah was the son of 500 years and fathered Shem, Ham, and Japheth.
 Notes:
-- why is it genitive
-- different form of how old he is, son of?
+- different form of how old character is, uses genitive in LXX

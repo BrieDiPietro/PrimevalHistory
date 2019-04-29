@@ -3,79 +3,79 @@ ComparativeAppearancesofGod
 elohim, θεος: God
 YHWH, κύριος: the Lord
 
-chapter.verse.mention#ESV#HMT#LXX#differences
-1.1.1#God#God#God#none
-1.2.1#God#God#God#none
-1.3.1#God#God#God#none
-1.4.1#God#God#God#none
-1.4.2#God#God#God#none
-1.5.1#God#God#God#none
-1.6.1#God#God#God#none
-1.7.1#God#God#God#none
-1.8.1#God#God#God#none
-1.9.1#God#God#God#none
-1.10.1#God#God#God#none
-1.10.2#God#God#God#none
-1.11.1#God#God#God#none
-1.12.1#God#God#God#none
-1.14.1#God#God#God#none
-1.16.1#God#God#God#none
-1.17.1#God#God#God#none
-1.18.1#God#God#God#none
-1.20.1#God#God#God#none
-1.21.1#God#God#God#none
-1.21.2#God#God#God#none
-1.22.1#God#God#God#none
-1.24.1#God#God#God#none
-1.25.1#God#God#God#none
-1.25.2#God#God#God#none
-1.26.1#God#God#God#none
-1.27.1#God#God#God#none
-1.27.2#God#God#God#none
-1.28.1#God#God#God#none
-1.28.2#God#none#God#HMT subtracts
-1.29.1#God#God#God#none
-1.30.1#God#God#God#none
-2.2.1#God#God#God#none
-2.3.1#God#God#God#none
-2.3.2#God#God#God#none
-2.4.1#Lord, God#Lord, God#God#LXX subtracts
-2.5.1#Lord, God#Lord, God#God#LXX subtracts
-2.7.1#Lord, God#Lord, God#God#LXX subtracts
-2.8.1#Lord, God#Lord, God#Lord, God#none
-2.9.1#Lord, God#Lord, God#God#LXX subtracts
-2.15.1#Lord, God#Lord, God#Lord, God#none
-2.16.1#Lord, God#Lord, God#Lord, God#none
-2.18.1#Lord, God#Lord, God#Lord, God#none
-2.19.1#Lord, God#Lord, God#God#LXX subtracts
-2.21.1#Lord, God#Lord, God#God#LXX subtracts
-2.22.1#Lord, God#Lord, God#Lord, God#none
-3.1.1#Lord, God#Lord, God#Lord, God#none
-3.1.2#God#God#God#none
-3.3.1#God#God#God#none
-3.5.1#God#God#God#none
-3.8.1#Lord, God#Lord, God#Lord, God#none
-3.9.1#Lord, God#Lord, God#Lord, God#none
-3.13.1#Lord, God#Lord, God#Lord, God#none
-3.14.1#Lord, God#Lord, God#Lord, God#none
-3.21.1#Lord, God#Lord, God#Lord, God#none
-3.22.1#Lord, God#Lord, God#God#LXX subtracts
-3.23.1#Lord, God#Lord, God#Lord, God#none
-4.1.1#Lord#Lord#God#LXX exchanges
-4.3.1#Lord#Lord#God#LXX exchanges
-4.4.1#Lord#Lord#God#LXX exchanges
-4.6.1#Lord#Lord#Lord, God#LXX adds
-4.9.1#Lord#Lord#God#LXX exchanges
-4.10.1#Lord#none#God#all different
-4.13.1#Lord#Lord#Lord#none
-4.15.1#Lord#Lord#Lord, God#LXX adds
-4.15.2#Lord#Lord#Lord, God#LXX adds
-4.16.1#Lord#Lord#God#LXX
-4.25.1#God#God#God#none
-4.26.1#Lord#Lord#Lord, God#LXX adds
-5.1.1#God#God#God#none
-5.1.2#God#God#God#none
-5.22.1#God#God#God#none
-5.24.1#God#God#God#none
-5.24.2#God#God#God#none
-5.29.1#Lord#Lord#Lord, God#LXX adds
+chapter.verse.mention#ESV#HMT#LXX#differences#typeofusage
+1.1.1#God#God#God#none#narrative
+1.2.1#God#God#God#none#narrative
+1.3.1#God#God#God#none#speech
+1.4.1#God#God#God#none#narrative
+1.4.2#God#God#God#none#narrative
+1.5.1#God#God#God#none#narrative
+1.6.1#God#God#God#none#speech
+1.7.1#God#God#God#none#narrative
+1.8.1#God#God#God#none#narrative
+1.9.1#God#God#God#none#speech
+1.10.1#God#God#God#none#narrative
+1.10.2#God#God#God#none#narrative
+1.11.1#God#God#God#none#speech
+1.12.1#God#God#God#none#narrative
+1.14.1#God#God#God#none#speech
+1.16.1#God#God#God#none#narrative
+1.17.1#God#God#God#none#narrative
+1.18.1#God#God#God#none#narrative
+1.20.1#God#God#God#none#speech
+1.21.1#God#God#God#none#narrative
+1.21.2#God#God#God#none#narrative
+1.22.1#God#God#God#none#speech
+1.24.1#God#God#God#none#speech
+1.25.1#God#God#God#none#narrative
+1.25.2#God#God#God#none#narrative
+1.26.1#God#God#God#none#speech
+1.27.1#God#God#God#none#narrative
+1.27.2#God#God#God#none#narrative
+1.28.1#God#God#God#none#narrative
+1.28.2#God#God#God#none#speech
+1.29.1#God#God#God#none#speech
+1.31.1#God#God#God#none#narrative
+2.2.1#God#God#God#none#narrative
+2.3.1#God#God#God#none#narrative
+2.3.2#God#God#God#none#narrative
+2.4.1#Lord, God#Lord, God#God#LXX subtracts#narrative
+2.5.1#Lord, God#Lord, God#God#LXX subtracts#narrative
+2.7.1#Lord, God#Lord, God#God#LXX subtracts#narrative
+2.8.1#Lord, God#Lord, God#Lord, God#none#narrative
+2.9.1#Lord, God#Lord, God#God#LXX subtracts#narrative
+2.15.1#Lord, God#Lord, God#Lord, God#none#narrative
+2.16.1#Lord, God#Lord, God#Lord, God#none#speech
+2.18.1#Lord, God#Lord, God#Lord, God#none#speech
+2.19.1#Lord, God#Lord, God#God#LXX subtracts#narrative
+2.21.1#Lord, God#Lord, God#God#LXX subtracts#narrative
+2.22.1#Lord, God#Lord, God#Lord, God#none#narrative
+3.1.1#Lord, God#Lord, God#Lord, God#none#quotation
+3.1.2#God#God#God#none#speech
+3.3.1#God#God#God#none#speech
+3.5.1#God#God#God#none#narrative
+3.8.1#Lord, God#Lord, God#Lord, God#none#narrative
+3.9.1#Lord, God#Lord, God#Lord, God#none#narrative
+3.13.1#Lord, God#Lord, God#Lord, God#none#speech
+3.14.1#Lord, God#Lord, God#Lord, God#none#speech
+3.21.1#Lord, God#Lord, God#Lord, God#none#narrative
+3.22.1#Lord, God#Lord, God#God#LXX subtracts#speech
+3.23.1#Lord, God#Lord, God#Lord, God#none#narrative
+4.1.1#Lord#Lord#God#LXX exchanges#quotation
+4.3.1#Lord#Lord#God#LXX exchanges#narrative
+4.4.1#Lord#Lord#God#LXX exchanges#narrative
+4.6.1#Lord#Lord#Lord, God#LXX adds#speech
+4.9.1#Lord#Lord#God#LXX exchanges#speech
+4.10.1#Lord#none#God#all different#speech
+4.13.1#Lord#Lord#Lord#none#narrative
+4.15.1#Lord#Lord#Lord, God#LXX adds#speech
+4.15.2#Lord#Lord#Lord, God#LXX adds#narrative
+4.16.1#Lord#Lord#God#LXX totally different#narrative
+4.25.1#God#God#God#none#quotation
+4.26.1#Lord#Lord#Lord, God#LXX adds#narrative
+5.1.1#God#God#God#none#narrative
+5.1.2#God#God#God#none#narrative
+5.22.1#God#God#God#none#narrative
+5.24.1#God#God#God#none#narrative
+5.24.2#God#God#God#none#narrative
+5.29.1#Lord#Lord#Lord, God#LXX adds#quotation
